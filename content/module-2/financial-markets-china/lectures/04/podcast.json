@@ -1,0 +1,450 @@
+{
+ "title": "Lecture 4: Financial Regulation System",
+ "hosts": [
+  "Maya",
+  "Leo"
+ ],
+ "duration": 773.4,
+ "lines": [
+  {
+   "speaker": "Maya",
+   "start": 0.6,
+   "text": "Hey, welcome back. I'm Maya."
+  },
+  {
+   "speaker": "Leo",
+   "start": 2.51,
+   "text": "I'm Leo. And today, lecture four, the Financial Regulation System in China. And I have to say, the last slide of this one kind of reframes the whole thing for me."
+  },
+  {
+   "speaker": "Maya",
+   "start": 13.64,
+   "text": "Regulation follows accidents."
+  },
+  {
+   "speaker": "Leo",
+   "start": 15.77,
+   "text": "Regulation follows accidents. We'll get there."
+  },
+  {
+   "speaker": "Maya",
+   "start": 19.06,
+   "text": "So, quick setup. A financial regulator does three things. Supervises markets, inspects institutions, and issues rules. And today China has what's called one bank, one administration, one commission."
+  },
+  {
+   "speaker": "Leo",
+   "start": 32.4,
+   "text": "The bank is the PBOC."
+  },
+  {
+   "speaker": "Maya",
+   "start": 34.44,
+   "text": "Right. The administration is the NFRA, the National Financial Regulatory Administration. And the commission is the CSRC, the China Securities Regulatory Commission. Plus SAFE, under the PBOC, and the Ministry of Finance as a kind of quasi regulator. And above all of them, since twenty twenty three, the Central Financial Commission."
+  },
+  {
+   "speaker": "Leo",
+   "start": 57.18,
+   "text": "Okay, quick tour. NFRA first."
+  },
+  {
+   "speaker": "Maya",
+   "start": 60.05,
+   "text": "Created in May twenty twenty three. It covers banks, insurers, and basically all finance except securities. Three main jobs. Licensing, meaning who gets to open a bank or an insurer and who gets to be a senior manager. Prudential rules, like capital and risk management. And consumer protection, it has a dedicated bureau that can fine companies for mis selling."
+  },
+  {
+   "speaker": "Leo",
+   "start": 83.14,
+   "text": "And there's a story on the slides about why that matters. The deposit to policy thing."
+  },
+  {
+   "speaker": "Maya",
+   "start": 88.63,
+   "text": "Oh, this one's wild. So, insurance agents would sit in bank branches, and basically pose as bank staff. And they'd sell universal life insurance as if it were a high yield deposit. Often to elderly people."
+  },
+  {
+   "speaker": "Leo",
+   "start": 102.16,
+   "text": "Who think they're just putting money in a savings account."
+  },
+  {
+   "speaker": "Maya",
+   "start": 105.29,
+   "text": "Exactly. And the surrender penalties and the cooling off periods were hidden. People only found out when they tried to take their money out."
+  },
+  {
+   "speaker": "Leo",
+   "start": 113.03,
+   "text": "Oof."
+  },
+  {
+   "speaker": "Maya",
+   "start": 113.95,
+   "text": "And the regulatory problem was, banks had one regulator and insurance had another. And this product lived right in the middle."
+  },
+  {
+   "speaker": "Leo",
+   "start": 121.67,
+   "text": "Nobody owned the problem."
+  },
+  {
+   "speaker": "Maya",
+   "start": 123.53,
+   "text": "Nobody owned it. Keep that in mind, it's the theme of the whole lecture."
+  },
+  {
+   "speaker": "Leo",
+   "start": 127.48,
+   "text": "Okay, CSRC."
+  },
+  {
+   "speaker": "Maya",
+   "start": 129.11,
+   "text": "Founded October nineteen ninety two. Securities and futures. It vets IPOs, now under a registration based system, a bit like the SEC with Chinese characteristics. It enforces continuous disclosure for listed companies. And it runs the delisting process for fraud or continuous losses."
+  },
+  {
+   "speaker": "Leo",
+   "start": 148.9,
+   "text": "And SAFE handles foreign exchange."
+  },
+  {
+   "speaker": "Maya",
+   "start": 151.31,
+   "text": "Right. And here's the key distinction. The current account is open. For trade, you can convert yuan freely. But the capital account is still closed, to prevent capital flight. Instead, there are specific channels, like Stock Connect and Bond Connect, that let foreign money in without full convertibility."
+  },
+  {
+   "speaker": "Leo",
+   "start": 169.75,
+   "text": "And the Ministry of Finance?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 171.67,
+   "text": "Sets accounting standards, injects capital into state banks, and holds state shares in financial institutions."
+  },
+  {
+   "speaker": "Leo",
+   "start": 178.69,
+   "text": "Okay, there's also a second tier, right? Local regulators."
+  },
+  {
+   "speaker": "Maya",
+   "start": 182.85,
+   "text": "Yes. National regulators license the big stuff. Banks, insurers, brokers. But provincial and city financial bureaus watch the fringe. Microcredit companies, financing guarantee firms, pawnshops, factoring, local asset management companies."
+  },
+  {
+   "speaker": "Leo",
+   "start": 199.2,
+   "text": "Pawnshops! Didn't expect that in a master's course."
+  },
+  {
+   "speaker": "Maya",
+   "start": 202.26,
+   "text": "Ha, right? But the weakness is that local bureaus partly answer to local governments. So their independence is, let's say, blurry."
+  },
+  {
+   "speaker": "Leo",
+   "start": 210.89,
+   "text": "Okay, now the history. And this is where it gets good."
+  },
+  {
+   "speaker": "Maya",
+   "start": 214.5,
+   "text": "So, nineteen forty nine to nineteen seventy seven. Centralized control. The PBOC does everything. No markets, no independent oversight. And the slide says that was actually rational at the time. No private property, huge industrial projects to fund, no tax base. Policy loans replaced profit driven lending."
+  },
+  {
+   "speaker": "Leo",
+   "start": 236.19,
+   "text": "Then reform starts in seventy eight."
+  },
+  {
+   "speaker": "Maya",
+   "start": 238.55,
+   "text": "Right. The specialized state banks come back. ICBC, Agricultural Bank, Bank of China, Construction Bank. In nineteen eighty six, the PBOC is formally made the central bank. And in nineteen ninety and ninety one, the Shanghai and Shenzhen stock exchanges open."
+  },
+  {
+   "speaker": "Leo",
+   "start": 255.94,
+   "text": "And the purpose of those exchanges was?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 258.63,
+   "text": "Mainly to raise private money to recapitalize state owned enterprises. They were experiments. Testing the waters."
+  },
+  {
+   "speaker": "Leo",
+   "start": 265.81,
+   "text": "And then nineteen ninety two. The Shenzhen story."
+  },
+  {
+   "speaker": "Maya",
+   "start": 269.04,
+   "text": "So, August nineteen ninety two. Millions of people line up in Shenzhen for IPO subscription lottery tickets. Like, literally, people traveling from other provinces, standing in line for days."
+  },
+  {
+   "speaker": "Leo",
+   "start": 281.85,
+   "text": "For lottery tickets to buy stocks."
+  },
+  {
+   "speaker": "Maya",
+   "start": 284.26,
+   "text": "Yeah. Because new listings were basically guaranteed to go up. And the allocation was unfair, there was corruption, and it turned into riots. On top of that, price manipulation, insider trading, forged IPO documents. All common, because there was no single regulator."
+  },
+  {
+   "speaker": "Leo",
+   "start": 301.61,
+   "text": "Supervision was split between, what, the PBOC, some state commission, local governments?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 307.86,
+   "text": "Exactly. Nobody owned who lists, how they disclose, how they get punished. So in October nineteen ninety two, the CSRC is created. And the slide has a great line. The CSRC was not the market's designer. It was the ticket taker after the market fell into disorder."
+  },
+  {
+   "speaker": "Leo",
+   "start": 325.82,
+   "text": "The market ran ahead of the rules."
+  },
+  {
+   "speaker": "Maya",
+   "start": 328.19,
+   "text": "That's it. Then, nineteen ninety three to two thousand. Building the legal framework. Nineteen ninety five, the PBOC Law and the Commercial Bank Law. Nineteen ninety eight, the CSRC becomes the single securities regulator. And also in nineteen ninety eight, the CIRC, the insurance regulator."
+  },
+  {
+   "speaker": "Leo",
+   "start": 348.07,
+   "text": "Why insurance separately?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 350.02,
+   "text": "Because insurance had grown its own problems. Mis selling, claims issues, and something called spread losses. In the nineties, insurers sold policies with high guaranteed returns. Then interest rates got cut."
+  },
+  {
+   "speaker": "Leo",
+   "start": 363.72,
+   "text": "And they can't earn enough to pay what they promised."
+  },
+  {
+   "speaker": "Maya",
+   "start": 366.58,
+   "text": "Exactly. And insurance risk is different from bank risk. It's about mortality, long term promises, people surrendering policies. The PBOC wasn't built for that. So, the slide says, insurance risk could no longer be managed with banking tools."
+  },
+  {
+   "speaker": "Leo",
+   "start": 383.19,
+   "text": "Okay. Two thousand one, the WTO."
+  },
+  {
+   "speaker": "Maya",
+   "start": 386.26,
+   "text": "Which forced a huge overhaul. Lift caps on foreign ownership of banks, end geographic limits, adopt Basel capital standards. Write off old bad loans faster, recapitalize the big four banks, add independent directors. And China did it within the five year transition period."
+  },
+  {
+   "speaker": "Leo",
+   "start": 404.49,
+   "text": "And two thousand three, the CBRC."
+  },
+  {
+   "speaker": "Maya",
+   "start": 407.39,
+   "text": "Banking supervision moves out of the PBOC. Because the PBOC was both running monetary policy and supervising banks, which is a conflict. So now we have one bank, three commissions. PBOC, CBRC, CIRC, CSRC."
+  },
+  {
+   "speaker": "Leo",
+   "start": 424.83,
+   "text": "Yi hang san hui."
+  },
+  {
+   "speaker": "Maya",
+   "start": 426.18,
+   "text": "Nice. And it works okay until two thousand eight. The global financial crisis hits, China launches a huge stimulus, and credit explodes. And a lot of it goes through shadow banking. Wealth management products, trust loans, entrusted loans."
+  },
+  {
+   "speaker": "Leo",
+   "start": 441.81,
+   "text": "And those products span multiple regulators."
+  },
+  {
+   "speaker": "Maya",
+   "start": 444.77,
+   "text": "That's the problem. A bank sells a wealth management product, which invests in a trust, which lends to a property developer. Who's supervising that? Bank regulator? Trust regulator? Nobody sees the whole chain."
+  },
+  {
+   "speaker": "Leo",
+   "start": 458.21,
+   "text": "Regulatory arbitrage."
+  },
+  {
+   "speaker": "Maya",
+   "start": 460.19,
+   "text": "Exactly. Firms structure products to fall into the gaps. After the twenty fifteen stock crash, in twenty seventeen, they create the FSDC, the Financial Stability and Development Committee, to coordinate."
+  },
+  {
+   "speaker": "Leo",
+   "start": 474.0,
+   "text": "And then twenty eighteen. Merger time."
+  },
+  {
+   "speaker": "Maya",
+   "start": 476.58,
+   "text": "Twenty eighteen, the CBRC and the CIRC merge into the CBIRC. One bank, two commissions. And the slide says this was a shift from institutional regulation to functional regulation."
+  },
+  {
+   "speaker": "Leo",
+   "start": 490.34,
+   "text": "Meaning, regulate what the product does, not who sells it."
+  },
+  {
+   "speaker": "Maya",
+   "start": 493.89,
+   "text": "Exactly. And same year, the big one. The new asset management rules. April twenty seventh, twenty eighteen. Joint guidance from the PBOC, the bank regulator, the CSRC, and SAFE."
+  },
+  {
+   "speaker": "Leo",
+   "start": 506.28,
+   "text": "And this is the shadow banking crackdown."
+  },
+  {
+   "speaker": "Maya",
+   "start": 508.93,
+   "text": "It's the legal backbone of it. Three core ideas. First, break implicit guarantees. Before, investors assumed that wealth management products would always pay back, no matter what. They called it rigid repayment. The rules say, no more. Products have to be valued at net value, mark to market. If the assets lose money, you lose money."
+  },
+  {
+   "speaker": "Leo",
+   "start": 530.15,
+   "text": "Which is a big cultural change."
+  },
+  {
+   "speaker": "Maya",
+   "start": 532.46,
+   "text": "Huge. Second, cut channel business and nested products. Those chains of product inside product inside product. And third, same rules for similar products, whether a bank, an insurer, a broker, or a fund sells them."
+  },
+  {
+   "speaker": "Leo",
+   "start": 547.06,
+   "text": "And the effect?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 548.31,
+   "text": "Bank wealth management products and trust channels shrank, and risk moved back onto balance sheets, where regulators can see it."
+  },
+  {
+   "speaker": "Leo",
+   "start": 555.55,
+   "text": "And then the MPA, the macro prudential assessment."
+  },
+  {
+   "speaker": "Maya",
+   "start": 559.44,
+   "text": "Right, run by the PBOC. It aims to dampen credit booms and limit arbitrage. Basically, don't let the whole system overheat."
+  },
+  {
+   "speaker": "Leo",
+   "start": 568.15,
+   "text": "And twenty twenty three. NFRA."
+  },
+  {
+   "speaker": "Maya",
+   "start": 571.2,
+   "text": "The CBIRC becomes the NFRA, a mega regulator for everything except securities. And at the same time, the Central Financial Commission is created at the Party level, replacing the FSDC. And there's a line I really like. Coordination moved from negotiation to command."
+  },
+  {
+   "speaker": "Leo",
+   "start": 590.98,
+   "text": "So before, regulators sat in a committee and negotiated. Now, there's a boss."
+  },
+  {
+   "speaker": "Maya",
+   "start": 596.5,
+   "text": "Exactly."
+  },
+  {
+   "speaker": "Leo",
+   "start": 597.35,
+   "text": "Okay, challenges. Quickly."
+  },
+  {
+   "speaker": "Maya",
+   "start": 599.56,
+   "text": "Coordination gaps still exist, especially with local authorities. Regulators are torn between supporting growth and preventing risk, which leads to policy swings. Shadow banking and local government financing vehicles persist, and there are new gaps, like private funds and supply chain finance. Fintech moved faster than the rules. Local supervision is uneven. And the system is still reactive rather than preventive."
+  },
+  {
+   "speaker": "Leo",
+   "start": 624.68,
+   "text": "And trends?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 625.81,
+   "text": "Unified supervision, macro prudential focus, consumer protection, rule based enforcement with a coming Financial Stability Law, regtech, so using data and A I for supervision, including regulating big platforms like Ant Group. And pushing finance toward small firms, tech and green."
+  },
+  {
+   "speaker": "Leo",
+   "start": 644.67,
+   "text": "Okay, now the last slide. Regulation follows accidents."
+  },
+  {
+   "speaker": "Maya",
+   "start": 648.85,
+   "text": "So the professor lists the evidence. Nineteen ninety two, the CSRC, after market chaos and forged IPO documents. Nineteen ninety eight, the CIRC, after insurance failures. Two thousand three, the CBRC, to separate supervision from monetary policy. Twenty eighteen, the merger, after bancassurance mis selling and cross sector products. Twenty twenty three, the NFRA, after risks moved into local debt, property and small banks."
+  },
+  {
+   "speaker": "Leo",
+   "start": 679.48,
+   "text": "So the regulatory map is basically a record of past accidents."
+  },
+  {
+   "speaker": "Maya",
+   "start": 683.96,
+   "text": "That's the exact line. And then the slide asks, why does this keep happening? And gives three reasons, which I think are really exam worthy. One, information. Regulators can't see the whole balance sheet until a product crosses two licenses. So the twenty eighteen merger was about information, not tidiness."
+  },
+  {
+   "speaker": "Leo",
+   "start": 702.57,
+   "text": "Two?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 703.53,
+   "text": "Institutional interests. Each regulator served a constituency. Local branches answered to local governments. So fragmentation wasn't an accident."
+  },
+  {
+   "speaker": "Leo",
+   "start": 713.35,
+   "text": "And three, coordination cost."
+  },
+  {
+   "speaker": "Maya",
+   "start": 715.52,
+   "text": "Committees can share information, but only command can coordinate action. Hence the Central Financial Commission. And the closing line: fragmentation is not a design failure. It's the price of information and institutional interests."
+  },
+  {
+   "speaker": "Leo",
+   "start": 731.09,
+   "text": "Okay, three things to remember."
+  },
+  {
+   "speaker": "Maya",
+   "start": 733.25,
+   "text": "One. Today it's one bank, one administration, one commission. PBOC, NFRA, CSRC, plus SAFE, all under the Central Financial Commission. Two. The path went from one bank, three commissions in two thousand three, to one bank, two commissions in twenty eighteen, to the NFRA in twenty twenty three, each step triggered by a crisis. And three. The twenty eighteen asset management rules broke implicit guarantees and pulled shadow banking back onto balance sheets."
+  },
+  {
+   "speaker": "Leo",
+   "start": 764.49,
+   "text": "And the bonus, regulation follows accidents."
+  },
+  {
+   "speaker": "Maya",
+   "start": 767.8,
+   "text": "Always. Thanks for listening, and good luck with the reading."
+  },
+  {
+   "speaker": "Leo",
+   "start": 771.22,
+   "text": "See you next time."
+  }
+ ]
+}

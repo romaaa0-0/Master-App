@@ -26,6 +26,29 @@ URLS = {
 }
 SR = 24000
 
+# How the voice should SAY a word (the transcript keeps the original text).
+# Acronyms the model would otherwise read as a word go here. Scripts can add
+# their own with a top-level "say": {"word": "spoken form"}.
+SAY = {
+    "PBOC": "P B O C", "PBoC": "P B O C", "NFRA": "N F R A", "CSRC": "C S R C", "CBRC": "C B R C",
+    "CIRC": "C I R C", "CBIRC": "C B I R C", "FSDC": "F S D C", "CFC": "C F C", "ICBC": "I C B C",
+    "SASAC": "sa-sack", "LGFV": "L G F V", "LGFVs": "L G F Vs", "WMP": "W M P", "WMPs": "W M Ps",
+    "NPL": "N P L", "NPLs": "N P Ls", "AMC": "A M C", "AMCs": "A M Cs", "IOER": "I O E R",
+    "e-CNY": "e C N Y", "SOE": "S O E", "SOEs": "S O Es", "MPA": "M P A", "VC": "V C", "PE": "P E",
+    "IPO": "I P O", "IPOs": "I P Os", "FX": "F X", "RRR": "triple R", "SLF": "S L F", "MLF": "M L F", "PSL": "P S L", "LPR": "L P R", "QFII": "Q F I I", "QDII": "Q D I I", "CIPS": "sips", "OTC": "O T C", "ETF": "E T F", "ETFs": "E T Fs",
+    "Xiaogang": "Shyao-gahng", "Zhu Rongji": "Joo Rong-jee", "Shijiazhuang": "Shir-jyah-jwahng",
+    "Huijin": "Hway-jin", "Shantou": "Shahn-toe", "Xiamen": "Shyah-men", "Zhuhai": "Joo-high",
+}
+
+
+def spoken(text, extra):
+    words = {**SAY, **extra}
+    for k in sorted(words, key=len, reverse=True):
+        text = re.sub(rf"(?<![\w-]){re.escape(k)}(?![\w-])", words[k], text)
+    # 2010-2099 read as "twenty fifteen", not "two thousand fifteen"
+    text = re.sub(r"\b20([1-9]\d)\b(?!\s*(percent|%|billion|million|km|tons))", lambda m: f"twenty {m.group(1)}", text)
+    return text
+
 
 def model_paths():
     os.makedirs(CACHE, exist_ok=True)
@@ -75,7 +98,7 @@ def main():
             g = line.get("gap", gap_before(prev["t"], text, prev["s"] == line["s"]))
             chunks.append(np.zeros(int(SR * g), dtype=np.float32)); t += g
         speed = line.get("speed", h.get("speed", 1.0)) * random.uniform(0.97, 1.03)
-        audio, sr = kokoro.create(text, voice=h["voice"], speed=speed, lang=h.get("lang", "en-us"))
+        audio, sr = kokoro.create(spoken(text, script.get("say", {})), voice=h["voice"], speed=speed, lang=h.get("lang", "en-us"))
         assert sr == SR
         # trim leading/trailing near-silence so our own gaps control the pacing
         nz = np.where(np.abs(audio) > 0.01)[0]

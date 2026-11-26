@@ -1,0 +1,540 @@
+{
+ "title": "Lecture 2: Chinese Economy and Financial Sectors",
+ "hosts": [
+  "Maya",
+  "Leo"
+ ],
+ "duration": 861.2,
+ "lines": [
+  {
+   "speaker": "Maya",
+   "start": 0.6,
+   "text": "Hey, welcome back. Maya here."
+  },
+  {
+   "speaker": "Leo",
+   "start": 2.6,
+   "text": "And Leo. And today is the history episode, which, I'm gonna say it, is my favorite lecture so far."
+  },
+  {
+   "speaker": "Maya",
+   "start": 9.61,
+   "text": "Same, honestly. Lecture two is called Chinese Economy and Financial Sectors. And the big question on the slide is, since nineteen forty nine, how did China's economy and financial system evolve, and why this way?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 24.22,
+   "text": "The \"why this way\" part is what makes it interesting."
+  },
+  {
+   "speaker": "Maya",
+   "start": 27.66,
+   "text": "Totally. Because the professor's final line is something like, China's financial system is not a delayed copy of the West. It's the answer to a specific growth model."
+  },
+  {
+   "speaker": "Leo",
+   "start": 38.31,
+   "text": "Okay, let's start with where China is today. Give me the headline numbers."
+  },
+  {
+   "speaker": "Maya",
+   "start": 43.04,
+   "text": "So, in twenty twenty four. GDP around eighteen point eight trillion dollars, second in the world. Trade around six point one trillion, first in the world. Foreign exchange reserves around three point two trillion, also first."
+  },
+  {
+   "speaker": "Leo",
+   "start": 58.09,
+   "text": "Second, first, first."
+  },
+  {
+   "speaker": "Maya",
+   "start": 59.69,
+   "text": "That's exactly how the slide puts it. But then, the catch. GDP per person is only about thirteen thousand four hundred dollars. Roughly seventieth in the world."
+  },
+  {
+   "speaker": "Leo",
+   "start": 70.42,
+   "text": "Huge economy, but still a middle income country per person."
+  },
+  {
+   "speaker": "Maya",
+   "start": 74.69,
+   "text": "Right. And the structure changed completely. In nineteen fifty two, agriculture was fifty one percent of the economy. In twenty twenty four, it's seven percent. Services went from twenty eight percent to fifty five."
+  },
+  {
+   "speaker": "Leo",
+   "start": 88.19,
+   "text": "Agrarian society, world factory, service economy."
+  },
+  {
+   "speaker": "Maya",
+   "start": 92.0,
+   "text": "Exactly. And the slide makes a point that's easy to miss. That shift itself was growth. When a farmer moves to a factory, they become way more productive, even if nothing else changes."
+  },
+  {
+   "speaker": "Leo",
+   "start": 103.71,
+   "text": "And the growth numbers are kind of absurd."
+  },
+  {
+   "speaker": "Maya",
+   "start": 106.32,
+   "text": "GDP went from about sixty billion dollars in nineteen sixty to eighteen point eight trillion. That's about three hundred and fifteen times."
+  },
+  {
+   "speaker": "Leo",
+   "start": 115.56,
+   "text": "Okay but, there's an asterisk there, right?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 118.21,
+   "text": "Good catch. That's nominal dollars, so it includes inflation and the currency getting stronger. In real terms it's more like a hundred to a hundred and twenty times. Still insane. Around ten percent a year for forty years, and over eight hundred million people out of extreme poverty."
+  },
+  {
+   "speaker": "Leo",
+   "start": 135.38,
+   "text": "And now it's slowing down to about five."
+  },
+  {
+   "speaker": "Maya",
+   "start": 137.93,
+   "text": "Right, which matters for everything later."
+  },
+  {
+   "speaker": "Leo",
+   "start": 140.3,
+   "text": "Okay, so rewind. Nineteen forty nine. What did China look like?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 145.12,
+   "text": "Really, really poor. GDP per person around fifty or sixty dollars. Eighty five to ninety percent of people rural. Life expectancy thirty five to forty. Literacy maybe twenty to thirty percent. And steel production, just to give you a sense, about a hundred and fifty eight thousand tons."
+  },
+  {
+   "speaker": "Leo",
+   "start": 163.74,
+   "text": "And today?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 164.91,
+   "text": "About one billion tons."
+  },
+  {
+   "speaker": "Leo",
+   "start": 166.53,
+   "text": "Wow."
+  },
+  {
+   "speaker": "Maya",
+   "start": 167.42,
+   "text": "Yeah. So, why a planned economy? The country just came out of a civil war, it's mostly farmers, almost no industry. The leadership chose a model with three pieces. The state allocates resources, agriculture gets collectivized, and heavy industry comes first."
+  },
+  {
+   "speaker": "Leo",
+   "start": 183.8,
+   "text": "And that leads to rationing, shortage economy."
+  },
+  {
+   "speaker": "Maya",
+   "start": 186.66,
+   "text": "Exactly. And then three phases. Reconstruction and the first five year plan, which actually built heavy industry. Then the Great Leap Forward and the Great Famine, which was massive misallocation. And then the Cultural Revolution, which was stagnation."
+  },
+  {
+   "speaker": "Leo",
+   "start": 202.31,
+   "text": "So by nineteen seventy eight, things were not good."
+  },
+  {
+   "speaker": "Maya",
+   "start": 205.74,
+   "text": "The slides give four reasons reform became unavoidable. One, growth was really low. GDP per person was a hundred and fifty six dollars."
+  },
+  {
+   "speaker": "Leo",
+   "start": 215.91,
+   "text": "Compare that to, what, the US?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 218.06,
+   "text": "Ten thousand five hundred. Japan eight thousand eight hundred. South Korea fourteen hundred. Even India was at two hundred and six. So China was below India."
+  },
+  {
+   "speaker": "Leo",
+   "start": 228.48,
+   "text": "That's the wake up call."
+  },
+  {
+   "speaker": "Maya",
+   "start": 230.1,
+   "text": "Two, agriculture couldn't feed seven hundred and ninety million people. About a tenth of a hectare of land per person. Three, industry was inefficient. State owned firms made about seventy eight percent of output, but they had what's called a soft budget constraint."
+  },
+  {
+   "speaker": "Leo",
+   "start": 246.65,
+   "text": "Explain that one, because it comes back a lot."
+  },
+  {
+   "speaker": "Maya",
+   "start": 249.76,
+   "text": "A soft budget constraint means if a firm loses money, someone, usually the state or a state bank, just bails it out. So there's no real pressure to be efficient. Losses don't kill you."
+  },
+  {
+   "speaker": "Leo",
+   "start": 261.42,
+   "text": "Which, yeah, kills incentives."
+  },
+  {
+   "speaker": "Maya",
+   "start": 263.5,
+   "text": "And four, a big technology gap. R and D under one percent of GDP."
+  },
+  {
+   "speaker": "Leo",
+   "start": 268.58,
+   "text": "Okay. So, nineteen seventy eight. What actually changed?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 272.51,
+   "text": "The approach first. Two famous phrases. It doesn't matter if the cat is black or white, as long as it catches mice."
+  },
+  {
+   "speaker": "Leo",
+   "start": 279.65,
+   "text": "And crossing the river by feeling for the stones."
+  },
+  {
+   "speaker": "Maya",
+   "start": 282.48,
+   "text": "Right. Basically, be pragmatic, experiment, pilot things, go step by step. And then four pillars of reform."
+  },
+  {
+   "speaker": "Leo",
+   "start": 289.59,
+   "text": "Rural reform first."
+  },
+  {
+   "speaker": "Maya",
+   "start": 291.45,
+   "text": "Rural first, because the crisis was deepest there. And there's this great story. Xiaogang village. In nineteen seventy eight, eighteen families secretly signed an agreement to divide the collective land and farm it household by household."
+  },
+  {
+   "speaker": "Leo",
+   "start": 306.3,
+   "text": "Secretly, because it was technically illegal."
+  },
+  {
+   "speaker": "Maya",
+   "start": 309.12,
+   "text": "Yeah, it was risky. And their output jumped massively that year. That became the household responsibility system. Nationally, grain output went from about three hundred million tons to four hundred million by nineteen eighty four, and farm incomes doubled in six years."
+  },
+  {
+   "speaker": "Leo",
+   "start": 326.15,
+   "text": "And that freed up labor for the township enterprises."
+  },
+  {
+   "speaker": "Maya",
+   "start": 329.51,
+   "text": "Exactly. The slide calls it the first pot of gold of China's reform. And it gave the reformers legitimacy for everything after."
+  },
+  {
+   "speaker": "Leo",
+   "start": 337.86,
+   "text": "Then SOE reform, state owned enterprises. And that took, what, thirty years?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 343.65,
+   "text": "Thirty plus. And the lecture's point is that each step fixed the previous step's problems but created new ones. First decentralization, letting managers keep some profit. Then tax for profit and contracting. Then in the nineties, the modern enterprise system, and a slogan, grasp the big, release the small."
+  },
+  {
+   "speaker": "Leo",
+   "start": 362.72,
+   "text": "Keep the big important firms, let go of the small ones."
+  },
+  {
+   "speaker": "Maya",
+   "start": 366.44,
+   "text": "Right. That's the Zhu Rongji era, with huge layoffs. Then in two thousand three, SASAC is created to manage state assets, and firms list on the stock market. And since twenty thirteen, mixed ownership."
+  },
+  {
+   "speaker": "Leo",
+   "start": 379.71,
+   "text": "Third pillar, prices. This one's my favorite. Dual track pricing."
+  },
+  {
+   "speaker": "Maya",
+   "start": 384.36,
+   "text": "It's so clever, and also kind of messy. So, instead of freeing all prices at once, which could cause a massive shock, China ran two prices at the same time. Goods inside the plan quota were sold at the low plan price. Anything produced above the quota could be sold at the market price."
+  },
+  {
+   "speaker": "Leo",
+   "start": 402.14,
+   "text": "So firms learn what market prices are, without blowing up the system."
+  },
+  {
+   "speaker": "Maya",
+   "start": 406.76,
+   "text": "Exactly. Prices get discovered gradually. But, the downside. If you can buy steel at the plan price and sell it at the market price..."
+  },
+  {
+   "speaker": "Leo",
+   "start": 415.09,
+   "text": "Free money."
+  },
+  {
+   "speaker": "Maya",
+   "start": 416.2,
+   "text": "Free money. Rent seeking, what they called official speculation. And in nineteen eighty eight there was an attempt at a big price breakthrough, liberalizing everything at once, and it caused panic buying and inflation. It was mostly unified after nineteen ninety two."
+  },
+  {
+   "speaker": "Leo",
+   "start": 432.67,
+   "text": "So gradual change isn't free."
+  },
+  {
+   "speaker": "Maya",
+   "start": 434.82,
+   "text": "That's literally the lesson on the slide. Transitional institutions create new vested interests."
+  },
+  {
+   "speaker": "Leo",
+   "start": 440.65,
+   "text": "And the fourth pillar is opening up."
+  },
+  {
+   "speaker": "Maya",
+   "start": 442.84,
+   "text": "From the edges inward. Nineteen eighty, the first special economic zones, Shenzhen, Zhuhai, Shantou, and Xiamen. Nineteen eighty four, fourteen coastal cities. Nineteen ninety, Pudong in Shanghai. And then the big one, joining the WTO in two thousand one."
+  },
+  {
+   "speaker": "Leo",
+   "start": 460.28,
+   "text": "And the phrase there is reform through opening."
+  },
+  {
+   "speaker": "Maya",
+   "start": 463.12,
+   "text": "Right. Opening wasn't just about foreign money and technology. Joining global rules forced China to change domestic institutions. The WTO was a watershed. Trade soared, manufacturing upgraded, and financial reform sped up."
+  },
+  {
+   "speaker": "Leo",
+   "start": 479.44,
+   "text": "Okay, so reform is one engine. What else drove growth?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 483.54,
+   "text": "The slides add four more. People, savings, exports, and urbanization. First the demographic dividend. Working age population went from four hundred million in nineteen eighty to nine hundred million in twenty ten."
+  },
+  {
+   "speaker": "Leo",
+   "start": 497.97,
+   "text": "And that's reversing now."
+  },
+  {
+   "speaker": "Maya",
+   "start": 499.58,
+   "text": "Right, it peaked around twenty ten. Second, a very high savings rate. National savings above forty percent of GDP, the highest of any major economy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 510.05,
+   "text": "Why so high?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 511.48,
+   "text": "Partly precautionary. Weak social security, so families save for health, education, housing, retirement. And partly corporate savings, firms keeping profits. And here's the link to finance. Savings go into bank deposits, banks lend them out for investment. Savings, bank loans, investment. That's the cash loop of a bank led system."
+  },
+  {
+   "speaker": "Leo",
+   "start": 532.8,
+   "text": "Then exports, after the WTO."
+  },
+  {
+   "speaker": "Maya",
+   "start": 535.36,
+   "text": "About twenty percent growth a year. Thirty percent of world manufacturing. That trade surplus is where the three point two trillion in reserves came from. And then urbanization, from eighteen percent in nineteen seventy eight to sixty seven percent today, plus massive infrastructure. Forty five thousand kilometers of high speed rail."
+  },
+  {
+   "speaker": "Leo",
+   "start": 556.17,
+   "text": "Which was great, but also built up local government debt."
+  },
+  {
+   "speaker": "Maya",
+   "start": 560.05,
+   "text": "Exactly. Every engine has a cost. Okay, and now, honestly, the most important slide in the lecture. The fifty six seven eight nine."
+  },
+  {
+   "speaker": "Leo",
+   "start": 569.06,
+   "text": "Ah, yes. Explain it."
+  },
+  {
+   "speaker": "Maya",
+   "start": 570.59,
+   "text": "So private firms in China account for more than fifty percent of tax revenue, more than sixty percent of GDP, more than seventy percent of innovation, more than eighty percent of urban jobs, and more than ninety percent of all firms."
+  },
+  {
+   "speaker": "Leo",
+   "start": 584.98,
+   "text": "Five, six, seven, eight, nine."
+  },
+  {
+   "speaker": "Maya",
+   "start": 587.03,
+   "text": "Exactly. But. Credit is allocated mostly by state owned banks, which historically prefer lending to state firms. So the slide says, output is produced privately, credit is allocated through a state owned system."
+  },
+  {
+   "speaker": "Leo",
+   "start": 600.96,
+   "text": "And every later lecture is about bridging that gap."
+  },
+  {
+   "speaker": "Maya",
+   "start": 604.42,
+   "text": "Every one. Banks, bonds, shadow banking, peer to peer lending. They're all attempts to get money to the private sector. And every failure in the course is a failure to bridge that gap."
+  },
+  {
+   "speaker": "Leo",
+   "start": 615.52,
+   "text": "That's a great framing. Okay, finance. Before nineteen seventy eight, was there even a financial system?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 622.97,
+   "text": "Not really. The lecture says banks were cashiers of the state. The People's Bank was everything at once. Central bank, commercial bank, cashier. Investment came from fiscal grants that didn't need to be repaid. No bond market, no stock market, no insurance."
+  },
+  {
+   "speaker": "Leo",
+   "start": 639.25,
+   "text": "So money didn't really allocate anything."
+  },
+  {
+   "speaker": "Maya",
+   "start": 641.88,
+   "text": "It was just an accounting tool. Which is why financial reform had to start from scratch."
+  },
+  {
+   "speaker": "Leo",
+   "start": 647.46,
+   "text": "And then six stages."
+  },
+  {
+   "speaker": "Maya",
+   "start": 649.18,
+   "text": "Quickly. Nineteen seventy nine to eighty four, restoration. Four specialized state banks come back, and grants become loans. Eighty five to ninety three, marketization. The central bank separates, stock exchanges are born, and there are two big inflations. Ninety four to two thousand one, legal reform. Laws for the central bank and commercial banks, and bad loans get stripped out of the banks."
+  },
+  {
+   "speaker": "Leo",
+   "start": 672.96,
+   "text": "Into those asset management companies from lecture one."
+  },
+  {
+   "speaker": "Maya",
+   "start": 676.57,
+   "text": "Exactly. Then two thousand two to twenty fifteen, post WTO expansion. Banks list on stock exchanges, there's the four trillion yuan stimulus in two thousand eight, and shadow banking explodes. And since twenty seventeen, risk control. New asset management rules, deleveraging, and fintech oversight."
+  },
+  {
+   "speaker": "Leo",
+   "start": 696.65,
+   "text": "And the thread through all of it?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 698.51,
+   "text": "Crisis forces reform. Financial reform in China is problem driven, not design driven."
+  },
+  {
+   "speaker": "Leo",
+   "start": 705.15,
+   "text": "Okay. And today's system is described as bank led."
+  },
+  {
+   "speaker": "Maya",
+   "start": 708.85,
+   "text": "Indirect finance is about two thirds. The big six state banks hold about half of all banking assets. Credit is steered by policy. Plus capital controls, a managed exchange rate. And the lecture insists these aren't flaws. They're rational choices for a certain stage. The real question is when they work and when they turn into risk."
+  },
+  {
+   "speaker": "Leo",
+   "start": 730.0,
+   "text": "Which brings us to the costs."
+  },
+  {
+   "speaker": "Maya",
+   "start": 731.96,
+   "text": "Four of them. Inequality, the Gini went from point three one to a peak of point four nine. Pollution. And the two financial ones the course focuses on. Corporate debt, around a hundred and sixty percent of GDP, plus hidden local government debt, estimated at sixty to seventy trillion yuan. And financial fragility, shadow banking, property loans, weak smaller banks."
+  },
+  {
+   "speaker": "Leo",
+   "start": 754.43,
+   "text": "And then the last part is like, the theory part. Why does the Chinese government make decisions this way?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 761.38,
+   "text": "Three components. One, pilot first. Try it in a special zone or a pilot city. If it works, scale it up. If not, the damage stays small. The slide links this to Hayek's knowledge problem. No central planner can know everything, so you let experiments generate the information."
+  },
+  {
+   "speaker": "Leo",
+   "start": 778.72,
+   "text": "Two, fiscal decentralization."
+  },
+  {
+   "speaker": "Maya",
+   "start": 780.97,
+   "text": "Local governments get to keep revenue and officials get promoted based on GDP growth. It's like a tournament. That's from Blanchard and Shleifer, two thousand one. Great for growth, but it also creates duplicate projects and local debt."
+  },
+  {
+   "speaker": "Leo",
+   "start": 796.11,
+   "text": "And three, dual track transition."
+  },
+  {
+   "speaker": "Maya",
+   "start": 798.36,
+   "text": "Protect the existing stock, liberalize the increment. Like the dual pricing. It reduces resistance, but creates rents."
+  },
+  {
+   "speaker": "Leo",
+   "start": 806.11,
+   "text": "So if someone asks you on the exam, what's the logic of Chinese financial decision making?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 812.53,
+   "text": "Information, political feasibility, and cost allocation. Who knows what's working, can the reform survive the people who'd lose from it, and who pays. And who pays decides the next round of reform."
+  },
+  {
+   "speaker": "Leo",
+   "start": 825.07,
+   "text": "Love it. Okay, three things to remember?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 827.91,
+   "text": "One. China went from a hundred and fifty six dollars per person in nineteen seventy eight to the second largest economy, through gradual, pilot based reform. Rural first, then SOEs, prices, and opening up. Two. The fifty six seven eight nine. Private firms produce the output, but state banks allocate the credit. And three. The financial system was built step by step, each step forced by a crisis. It's problem driven, not design driven."
+  },
+  {
+   "speaker": "Leo",
+   "start": 853.9,
+   "text": "Next time, the central bank. Lots of acronyms."
+  },
+  {
+   "speaker": "Maya",
+   "start": 857.53,
+   "text": "So many acronyms. See you then."
+  },
+  {
+   "speaker": "Leo",
+   "start": 859.62,
+   "text": "Bye."
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "title": "Lecture 2: Chinese Economy and Financial Sectors",
+ "hosts": {
+  "A": {
+   "name": "Maya",
+   "voice": "af_heart"
+  },
+  "B": {
+   "name": "Leo",
+   "voice": "am_michael"
+  }
+ },
+ "lines": [
+  {
+   "s": "A",
+   "t": "Hey, welcome back. Maya here."
+  },
+  {
+   "s": "B",
+   "t": "And Leo. And today is the history episode, which, I'm gonna say it, is my favorite lecture so far."
+  },
+  {
+   "s": "A",
+   "t": "Same, honestly. Lecture two is called Chinese Economy and Financial Sectors. And the big question on the slide is, since nineteen forty nine, how did China's economy and financial system evolve, and why this way?"
+  },
+  {
+   "s": "B",
+   "t": "The \"why this way\" part is what makes it interesting."
+  },
+  {
+   "s": "A",
+   "t": "Totally. Because the professor's final line is something like, China's financial system is not a delayed copy of the West. It's the answer to a specific growth model."
+  },
+  {
+   "s": "B",
+   "t": "Okay, let's start with where China is today. Give me the headline numbers."
+  },
+  {
+   "s": "A",
+   "t": "So, in twenty twenty four. GDP around eighteen point eight trillion dollars, second in the world. Trade around six point one trillion, first in the world. Foreign exchange reserves around three point two trillion, also first."
+  },
+  {
+   "s": "B",
+   "t": "Second, first, first."
+  },
+  {
+   "s": "A",
+   "t": "That's exactly how the slide puts it. But then, the catch. GDP per person is only about thirteen thousand four hundred dollars. Roughly seventieth in the world."
+  },
+  {
+   "s": "B",
+   "t": "Huge economy, but still a middle income country per person."
+  },
+  {
+   "s": "A",
+   "t": "Right. And the structure changed completely. In nineteen fifty two, agriculture was fifty one percent of the economy. In twenty twenty four, it's seven percent. Services went from twenty eight percent to fifty five."
+  },
+  {
+   "s": "B",
+   "t": "Agrarian society, world factory, service economy."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. And the slide makes a point that's easy to miss. That shift itself was growth. When a farmer moves to a factory, they become way more productive, even if nothing else changes."
+  },
+  {
+   "s": "B",
+   "t": "And the growth numbers are kind of absurd."
+  },
+  {
+   "s": "A",
+   "t": "GDP went from about sixty billion dollars in nineteen sixty to eighteen point eight trillion. That's about three hundred and fifteen times."
+  },
+  {
+   "s": "B",
+   "t": "Okay but, there's an asterisk there, right?"
+  },
+  {
+   "s": "A",
+   "t": "Good catch. That's nominal dollars, so it includes inflation and the currency getting stronger. In real terms it's more like a hundred to a hundred and twenty times. Still insane. Around ten percent a year for forty years, and over eight hundred million people out of extreme poverty."
+  },
+  {
+   "s": "B",
+   "t": "And now it's slowing down to about five."
+  },
+  {
+   "s": "A",
+   "t": "Right, which matters for everything later."
+  },
+  {
+   "s": "B",
+   "t": "Okay, so rewind. Nineteen forty nine. What did China look like?"
+  },
+  {
+   "s": "A",
+   "t": "Really, really poor. GDP per person around fifty or sixty dollars. Eighty five to ninety percent of people rural. Life expectancy thirty five to forty. Literacy maybe twenty to thirty percent. And steel production, just to give you a sense, about a hundred and fifty eight thousand tons."
+  },
+  {
+   "s": "B",
+   "t": "And today?"
+  },
+  {
+   "s": "A",
+   "t": "About one billion tons."
+  },
+  {
+   "s": "B",
+   "t": "Wow."
+  },
+  {
+   "s": "A",
+   "t": "Yeah. So, why a planned economy? The country just came out of a civil war, it's mostly farmers, almost no industry. The leadership chose a model with three pieces. The state allocates resources, agriculture gets collectivized, and heavy industry comes first."
+  },
+  {
+   "s": "B",
+   "t": "And that leads to rationing, shortage economy."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. And then three phases. Reconstruction and the first five year plan, which actually built heavy industry. Then the Great Leap Forward and the Great Famine, which was massive misallocation. And then the Cultural Revolution, which was stagnation."
+  },
+  {
+   "s": "B",
+   "t": "So by nineteen seventy eight, things were not good."
+  },
+  {
+   "s": "A",
+   "t": "The slides give four reasons reform became unavoidable. One, growth was really low. GDP per person was a hundred and fifty six dollars."
+  },
+  {
+   "s": "B",
+   "t": "Compare that to, what, the US?"
+  },
+  {
+   "s": "A",
+   "t": "Ten thousand five hundred. Japan eight thousand eight hundred. South Korea fourteen hundred. Even India was at two hundred and six. So China was below India."
+  },
+  {
+   "s": "B",
+   "t": "That's the wake up call."
+  },
+  {
+   "s": "A",
+   "t": "Two, agriculture couldn't feed seven hundred and ninety million people. About a tenth of a hectare of land per person. Three, industry was inefficient. State owned firms made about seventy eight percent of output, but they had what's called a soft budget constraint."
+  },
+  {
+   "s": "B",
+   "t": "Explain that one, because it comes back a lot."
+  },
+  {
+   "s": "A",
+   "t": "A soft budget constraint means if a firm loses money, someone, usually the state or a state bank, just bails it out. So there's no real pressure to be efficient. Losses don't kill you."
+  },
+  {
+   "s": "B",
+   "t": "Which, yeah, kills incentives."
+  },
+  {
+   "s": "A",
+   "t": "And four, a big technology gap. R and D under one percent of GDP."
+  },
+  {
+   "s": "B",
+   "t": "Okay. So, nineteen seventy eight. What actually changed?"
+  },
+  {
+   "s": "A",
+   "t": "The approach first. Two famous phrases. It doesn't matter if the cat is black or white, as long as it catches mice."
+  },
+  {
+   "s": "B",
+   "t": "And crossing the river by feeling for the stones."
+  },
+  {
+   "s": "A",
+   "t": "Right. Basically, be pragmatic, experiment, pilot things, go step by step. And then four pillars of reform."
+  },
+  {
+   "s": "B",
+   "t": "Rural reform first."
+  },
+  {
+   "s": "A",
+   "t": "Rural first, because the crisis was deepest there. And there's this great story. Xiaogang village. In nineteen seventy eight, eighteen families secretly signed an agreement to divide the collective land and farm it household by household."
+  },
+  {
+   "s": "B",
+   "t": "Secretly, because it was technically illegal."
+  },
+  {
+   "s": "A",
+   "t": "Yeah, it was risky. And their output jumped massively that year. That became the household responsibility system. Nationally, grain output went from about three hundred million tons to four hundred million by nineteen eighty four, and farm incomes doubled in six years."
+  },
+  {
+   "s": "B",
+   "t": "And that freed up labor for the township enterprises."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. The slide calls it the first pot of gold of China's reform. And it gave the reformers legitimacy for everything after."
+  },
+  {
+   "s": "B",
+   "t": "Then SOE reform, state owned enterprises. And that took, what, thirty years?"
+  },
+  {
+   "s": "A",
+   "t": "Thirty plus. And the lecture's point is that each step fixed the previous step's problems but created new ones. First decentralization, letting managers keep some profit. Then tax for profit and contracting. Then in the nineties, the modern enterprise system, and a slogan, grasp the big, release the small."
+  },
+  {
+   "s": "B",
+   "t": "Keep the big important firms, let go of the small ones."
+  },
+  {
+   "s": "A",
+   "t": "Right. That's the Zhu Rongji era, with huge layoffs. Then in two thousand three, SASAC is created to manage state assets, and firms list on the stock market. And since twenty thirteen, mixed ownership."
+  },
+  {
+   "s": "B",
+   "t": "Third pillar, prices. This one's my favorite. Dual track pricing."
+  },
+  {
+   "s": "A",
+   "t": "It's so clever, and also kind of messy. So, instead of freeing all prices at once, which could cause a massive shock, China ran two prices at the same time. Goods inside the plan quota were sold at the low plan price. Anything produced above the quota could be sold at the market price."
+  },
+  {
+   "s": "B",
+   "t": "So firms learn what market prices are, without blowing up the system."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Prices get discovered gradually. But, the downside. If you can buy steel at the plan price and sell it at the market price..."
+  },
+  {
+   "s": "B",
+   "t": "Free money."
+  },
+  {
+   "s": "A",
+   "t": "Free money. Rent seeking, what they called official speculation. And in nineteen eighty eight there was an attempt at a big price breakthrough, liberalizing everything at once, and it caused panic buying and inflation. It was mostly unified after nineteen ninety two."
+  },
+  {
+   "s": "B",
+   "t": "So gradual change isn't free."
+  },
+  {
+   "s": "A",
+   "t": "That's literally the lesson on the slide. Transitional institutions create new vested interests."
+  },
+  {
+   "s": "B",
+   "t": "And the fourth pillar is opening up."
+  },
+  {
+   "s": "A",
+   "t": "From the edges inward. Nineteen eighty, the first special economic zones, Shenzhen, Zhuhai, Shantou, and Xiamen. Nineteen eighty four, fourteen coastal cities. Nineteen ninety, Pudong in Shanghai. And then the big one, joining the WTO in two thousand one."
+  },
+  {
+   "s": "B",
+   "t": "And the phrase there is reform through opening."
+  },
+  {
+   "s": "A",
+   "t": "Right. Opening wasn't just about foreign money and technology. Joining global rules forced China to change domestic institutions. The WTO was a watershed. Trade soared, manufacturing upgraded, and financial reform sped up."
+  },
+  {
+   "s": "B",
+   "t": "Okay, so reform is one engine. What else drove growth?"
+  },
+  {
+   "s": "A",
+   "t": "The slides add four more. People, savings, exports, and urbanization. First the demographic dividend. Working age population went from four hundred million in nineteen eighty to nine hundred million in twenty ten."
+  },
+  {
+   "s": "B",
+   "t": "And that's reversing now."
+  },
+  {
+   "s": "A",
+   "t": "Right, it peaked around twenty ten. Second, a very high savings rate. National savings above forty percent of GDP, the highest of any major economy."
+  },
+  {
+   "s": "B",
+   "t": "Why so high?"
+  },
+  {
+   "s": "A",
+   "t": "Partly precautionary. Weak social security, so families save for health, education, housing, retirement. And partly corporate savings, firms keeping profits. And here's the link to finance. Savings go into bank deposits, banks lend them out for investment. Savings, bank loans, investment. That's the cash loop of a bank led system."
+  },
+  {
+   "s": "B",
+   "t": "Then exports, after the WTO."
+  },
+  {
+   "s": "A",
+   "t": "About twenty percent growth a year. Thirty percent of world manufacturing. That trade surplus is where the three point two trillion in reserves came from. And then urbanization, from eighteen percent in nineteen seventy eight to sixty seven percent today, plus massive infrastructure. Forty five thousand kilometers of high speed rail."
+  },
+  {
+   "s": "B",
+   "t": "Which was great, but also built up local government debt."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Every engine has a cost. Okay, and now, honestly, the most important slide in the lecture. The fifty six seven eight nine."
+  },
+  {
+   "s": "B",
+   "t": "Ah, yes. Explain it."
+  },
+  {
+   "s": "A",
+   "t": "So private firms in China account for more than fifty percent of tax revenue, more than sixty percent of GDP, more than seventy percent of innovation, more than eighty percent of urban jobs, and more than ninety percent of all firms."
+  },
+  {
+   "s": "B",
+   "t": "Five, six, seven, eight, nine."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. But. Credit is allocated mostly by state owned banks, which historically prefer lending to state firms. So the slide says, output is produced privately, credit is allocated through a state owned system."
+  },
+  {
+   "s": "B",
+   "t": "And every later lecture is about bridging that gap."
+  },
+  {
+   "s": "A",
+   "t": "Every one. Banks, bonds, shadow banking, peer to peer lending. They're all attempts to get money to the private sector. And every failure in the course is a failure to bridge that gap."
+  },
+  {
+   "s": "B",
+   "t": "That's a great framing. Okay, finance. Before nineteen seventy eight, was there even a financial system?"
+  },
+  {
+   "s": "A",
+   "t": "Not really. The lecture says banks were cashiers of the state. The People's Bank was everything at once. Central bank, commercial bank, cashier. Investment came from fiscal grants that didn't need to be repaid. No bond market, no stock market, no insurance."
+  },
+  {
+   "s": "B",
+   "t": "So money didn't really allocate anything."
+  },
+  {
+   "s": "A",
+   "t": "It was just an accounting tool. Which is why financial reform had to start from scratch."
+  },
+  {
+   "s": "B",
+   "t": "And then six stages."
+  },
+  {
+   "s": "A",
+   "t": "Quickly. Nineteen seventy nine to eighty four, restoration. Four specialized state banks come back, and grants become loans. Eighty five to ninety three, marketization. The central bank separates, stock exchanges are born, and there are two big inflations. Ninety four to two thousand one, legal reform. Laws for the central bank and commercial banks, and bad loans get stripped out of the banks."
+  },
+  {
+   "s": "B",
+   "t": "Into those asset management companies from lecture one."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Then two thousand two to twenty fifteen, post WTO expansion. Banks list on stock exchanges, there's the four trillion yuan stimulus in two thousand eight, and shadow banking explodes. And since twenty seventeen, risk control. New asset management rules, deleveraging, and fintech oversight."
+  },
+  {
+   "s": "B",
+   "t": "And the thread through all of it?"
+  },
+  {
+   "s": "A",
+   "t": "Crisis forces reform. Financial reform in China is problem driven, not design driven."
+  },
+  {
+   "s": "B",
+   "t": "Okay. And today's system is described as bank led."
+  },
+  {
+   "s": "A",
+   "t": "Indirect finance is about two thirds. The big six state banks hold about half of all banking assets. Credit is steered by policy. Plus capital controls, a managed exchange rate. And the lecture insists these aren't flaws. They're rational choices for a certain stage. The real question is when they work and when they turn into risk."
+  },
+  {
+   "s": "B",
+   "t": "Which brings us to the costs."
+  },
+  {
+   "s": "A",
+   "t": "Four of them. Inequality, the Gini went from point three one to a peak of point four nine. Pollution. And the two financial ones the course focuses on. Corporate debt, around a hundred and sixty percent of GDP, plus hidden local government debt, estimated at sixty to seventy trillion yuan. And financial fragility, shadow banking, property loans, weak smaller banks."
+  },
+  {
+   "s": "B",
+   "t": "And then the last part is like, the theory part. Why does the Chinese government make decisions this way?"
+  },
+  {
+   "s": "A",
+   "t": "Three components. One, pilot first. Try it in a special zone or a pilot city. If it works, scale it up. If not, the damage stays small. The slide links this to Hayek's knowledge problem. No central planner can know everything, so you let experiments generate the information."
+  },
+  {
+   "s": "B",
+   "t": "Two, fiscal decentralization."
+  },
+  {
+   "s": "A",
+   "t": "Local governments get to keep revenue and officials get promoted based on GDP growth. It's like a tournament. That's from Blanchard and Shleifer, two thousand one. Great for growth, but it also creates duplicate projects and local debt."
+  },
+  {
+   "s": "B",
+   "t": "And three, dual track transition."
+  },
+  {
+   "s": "A",
+   "t": "Protect the existing stock, liberalize the increment. Like the dual pricing. It reduces resistance, but creates rents."
+  },
+  {
+   "s": "B",
+   "t": "So if someone asks you on the exam, what's the logic of Chinese financial decision making?"
+  },
+  {
+   "s": "A",
+   "t": "Information, political feasibility, and cost allocation. Who knows what's working, can the reform survive the people who'd lose from it, and who pays. And who pays decides the next round of reform."
+  },
+  {
+   "s": "B",
+   "t": "Love it. Okay, three things to remember?"
+  },
+  {
+   "s": "A",
+   "t": "One. China went from a hundred and fifty six dollars per person in nineteen seventy eight to the second largest economy, through gradual, pilot based reform. Rural first, then SOEs, prices, and opening up. Two. The fifty six seven eight nine. Private firms produce the output, but state banks allocate the credit. And three. The financial system was built step by step, each step forced by a crisis. It's problem driven, not design driven."
+  },
+  {
+   "s": "B",
+   "t": "Next time, the central bank. Lots of acronyms."
+  },
+  {
+   "s": "A",
+   "t": "So many acronyms. See you then."
+  },
+  {
+   "s": "B",
+   "t": "Bye."
+  }
+ ]
+}

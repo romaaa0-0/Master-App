@@ -1,0 +1,439 @@
+{
+ "title": "Lecture 1: Introduction to the Chinese Financial System",
+ "hosts": {
+  "A": {
+   "name": "Maya",
+   "voice": "af_heart"
+  },
+  "B": {
+   "name": "Leo",
+   "voice": "am_michael"
+  }
+ },
+ "lines": [
+  {
+   "s": "A",
+   "t": "Hey, welcome back. So, this is the first episode for Financial Markets and Investments in China. I'm Maya."
+  },
+  {
+   "s": "B",
+   "t": "And I'm Leo. And, uh, full honesty, when I opened this first lecture I thought, okay, intro week, definitions, easy."
+  },
+  {
+   "s": "A",
+   "t": "Right."
+  },
+  {
+   "s": "B",
+   "t": "And then there's like... twenty six slides of classifications."
+  },
+  {
+   "s": "A",
+   "t": "Yeah, it's a lot of boxes. But here's the thing. This lecture is basically the map for the whole course. The professor literally says that on the last slide. Authorities on top, markets and institutions underneath. Everything later hangs on this."
+  },
+  {
+   "s": "B",
+   "t": "Okay, so let's build the map. Where do we start?"
+  },
+  {
+   "s": "A",
+   "t": "We start with the simplest question. What is finance, actually?"
+  },
+  {
+   "s": "B",
+   "t": "Money. Next question."
+  },
+  {
+   "s": "A",
+   "t": "Ha. Close. The lecture defines it as the flow of funds between different sectors of the economy. And the key idea is that some sectors have more money than they spend, and some have less."
+  },
+  {
+   "s": "B",
+   "t": "Surplus and shortage."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Surplus sectors, that's usually households. You earn your salary, you don't spend all of it, you save. And shortage sectors, usually firms and the government. They want to build a factory, a railway, whatever, and they need more money than they have."
+  },
+  {
+   "s": "B",
+   "t": "So finance is the plumbing that moves money from my savings account to someone's factory."
+  },
+  {
+   "s": "A",
+   "t": "That's a really good way to put it. And there are two ways the plumbing works. One is fiscal. The government taxes the surplus and spends it. The other is financial. Banks and markets link the two sides."
+  },
+  {
+   "s": "B",
+   "t": "And within the financial way, there's direct and indirect, right?"
+  },
+  {
+   "s": "A",
+   "t": "Yes. Direct finance is when you, the saver, give money straight to the borrower. You buy a company's stock, you buy a government bond. No middleman owns that claim."
+  },
+  {
+   "s": "B",
+   "t": "And indirect is the bank."
+  },
+  {
+   "s": "A",
+   "t": "Indirect is the bank. You deposit money, the bank lends it out. You never meet the borrower. You have a claim on the bank, and the bank has a claim on the borrower."
+  },
+  {
+   "s": "B",
+   "t": "Okay, and there's this line on the slide I liked. Markets and intermediaries are complements, not substitutes."
+  },
+  {
+   "s": "A",
+   "t": "Yeah, that one's worth remembering. Markets price and trade claims. Intermediaries pool, transform and monitor risk. You need both. Which, honestly, matters a lot for China, because China is very bank heavy. We'll see that in later lectures."
+  },
+  {
+   "s": "B",
+   "t": "Alright. Then we get into assets. And this is where I started to glaze over a bit, I'll admit."
+  },
+  {
+   "s": "A",
+   "t": "Let me try to make it painless. An asset is anything that's valuable in exchange. Tangible assets are physical, like land or a machine. Intangible ones have no physical form, like a patent, a brand, goodwill. And financial assets."
+  },
+  {
+   "s": "B",
+   "t": "Which are?"
+  },
+  {
+   "s": "A",
+   "t": "A claim. A financial asset entitles you to receive cash, or another financial asset, from somebody else. And the slide makes a sharp point here. Unlike a real asset, its value depends on the issuer's ability and willingness to pay."
+  },
+  {
+   "s": "B",
+   "t": "So a bond is only worth something if the company can actually pay me back."
+  },
+  {
+   "s": "A",
+   "t": "Right. A house is still a house even if the builder goes bankrupt. A bond from a bankrupt company is, well..."
+  },
+  {
+   "s": "B",
+   "t": "Wallpaper."
+  },
+  {
+   "s": "A",
+   "t": "Pretty much. Then there's this trio that I think is actually the most useful thing in the first half. Instruments, assets and products."
+  },
+  {
+   "s": "B",
+   "t": "Okay, I'll be honest, I thought those were synonyms."
+  },
+  {
+   "s": "A",
+   "t": "Most people do. The trick is it's the same thing seen from three angles. Take one corporate bond. To the company that issued it, it's an instrument, a legal contract they used to raise money. To you, the person holding it, it's an asset on your balance sheet. And when a bank packages a bunch of those bonds into a fund and sells it to the public, that's a product."
+  },
+  {
+   "s": "B",
+   "t": "Oh, that's neat. Issuer view, holder view, market view."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. One security, three identities."
+  },
+  {
+   "s": "B",
+   "t": "And products are, what, standardized?"
+  },
+  {
+   "s": "A",
+   "t": "That's the key word. A product is a standardized offering. Think mutual funds, ETFs, insurance policies, structured deposits. And standardization matters for three reasons. Contracts are uniform, so you can compare them. Pricing is transparent. And because they're all the same, they can trade easily in a secondary market."
+  },
+  {
+   "s": "B",
+   "t": "Like a Treasury bond. Every one has the same maturity, coupon, face value."
+  },
+  {
+   "s": "A",
+   "t": "Exactly the example in the slides."
+  },
+  {
+   "s": "B",
+   "t": "Okay. Then we classify instruments. By duration and by nature."
+  },
+  {
+   "s": "A",
+   "t": "By duration is the money market versus the capital market. Under one year is money market. Treasury bills, commercial paper, certificates of deposit. Over one year is capital market. Stocks, bonds, mortgages."
+  },
+  {
+   "s": "B",
+   "t": "And by nature, debt, equity, derivatives."
+  },
+  {
+   "s": "A",
+   "t": "Debt is a fixed claim. You lent money, you get your interest and principal back, nothing more. Equity is a residual claim. You own a piece, you get whatever's left after everyone else is paid. Could be a lot, could be zero."
+  },
+  {
+   "s": "B",
+   "t": "And derivatives are the weird ones."
+  },
+  {
+   "s": "A",
+   "t": "Derivatives are contracts whose payoff depends on something else. A stock, an interest rate, oil, a currency. Futures, options, swaps."
+  },
+  {
+   "s": "B",
+   "t": "Okay. That's the asset side. Now markets."
+  },
+  {
+   "s": "A",
+   "t": "So a financial market is a platform where buyers and sellers trade financial assets. And the lecture lists five functions. Want to try?"
+  },
+  {
+   "s": "B",
+   "t": "Hmm. Moving savings into investment."
+  },
+  {
+   "s": "A",
+   "t": "Yes."
+  },
+  {
+   "s": "B",
+   "t": "Liquidity. Being able to sell when you want."
+  },
+  {
+   "s": "A",
+   "t": "Yes."
+  },
+  {
+   "s": "B",
+   "t": "Price discovery?"
+  },
+  {
+   "s": "A",
+   "t": "Yep. Prices reflect supply, demand, and information."
+  },
+  {
+   "s": "B",
+   "t": "Uh... reducing costs?"
+  },
+  {
+   "s": "A",
+   "t": "Transaction costs, yes. And the fifth one is risk. Markets let you transfer, hedge, and diversify risk."
+  },
+  {
+   "s": "B",
+   "t": "Four out of five, I'll take it."
+  },
+  {
+   "s": "A",
+   "t": "Then there's this long section on six ways to classify markets. I'll go fast, because honestly, this is the kind of thing you'll want to look at in the summary tab rather than hear."
+  },
+  {
+   "s": "B",
+   "t": "Good call."
+  },
+  {
+   "s": "A",
+   "t": "By what's traded. Money market, capital market, foreign exchange, gold. By financing method, direct or indirect. By transaction level, primary or secondary."
+  },
+  {
+   "s": "B",
+   "t": "Primary is when the security is first issued. Like an IPO."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. The company gets the money. Secondary is when investors trade it among themselves afterwards. The company doesn't get anything from that, but it's what gives investors liquidity. And honestly, without a good secondary market, nobody would buy in the primary one."
+  },
+  {
+   "s": "B",
+   "t": "Because you'd be stuck with it forever."
+  },
+  {
+   "s": "A",
+   "t": "Right. Then by pricing, open market with public bidding, like a stock exchange, versus negotiated, like over the counter. By organization, visible markets with a central venue versus invisible ones, dealer networks, like the FX market. And by delivery timing, spot versus derivatives."
+  },
+  {
+   "s": "B",
+   "t": "Okay. And then China specifically."
+  },
+  {
+   "s": "A",
+   "t": "China today has the full set. Money market, bond market, stock market, foreign exchange, commodity futures, financial derivatives, venture capital and private equity, insurance and funds, and a gold market."
+  },
+  {
+   "s": "B",
+   "t": "I want to flag one thing from the money market slide. Repos. Repurchase agreements. Those come up again, right?"
+  },
+  {
+   "s": "A",
+   "t": "Oh, a lot. Especially in the monetary policy lecture. A repo is basically a short, collateralized loan. I sell you a bond today and promise to buy it back tomorrow at a slightly higher price. That small difference is the interest rate. Banks do this with each other, and with the central bank, all day long."
+  },
+  {
+   "s": "B",
+   "t": "Got it. And for the capital market, the slide says in China the two pillars are equities and long term bonds."
+  },
+  {
+   "s": "A",
+   "t": "Yes. And then FX, which is the biggest and most liquid market in the world, trading twenty four hours. And derivatives, where the slide makes a nice distinction. Over the counter derivatives are bigger but less regulated. Exchange traded ones are more transparent."
+  },
+  {
+   "s": "B",
+   "t": "And four functions for derivatives. Hedging, speculation, price discovery, arbitrage."
+  },
+  {
+   "s": "A",
+   "t": "You were paying attention."
+  },
+  {
+   "s": "B",
+   "t": "I had coffee."
+  },
+  {
+   "s": "A",
+   "t": "Okay, last big block. Institutions. And this is where China starts to look different."
+  },
+  {
+   "s": "B",
+   "t": "Two classes. Regulators and intermediaries."
+  },
+  {
+   "s": "A",
+   "t": "Right. The regulators first. The People's Bank of China, the PBOC, is the central bank. Monetary policy. The CSRC, the China Securities Regulatory Commission, handles stocks, bonds, futures. And the NFRA, the National Financial Regulatory Administration, handles banking and insurance."
+  },
+  {
+   "s": "B",
+   "t": "And SAFE."
+  },
+  {
+   "s": "A",
+   "t": "SAFE, the State Administration of Foreign Exchange, runs FX, the reserves, and capital account rules. And it's administered by the PBOC. And then, since twenty twenty three, there's the Central Financial Commission sitting above all of them, at the Party level, coordinating."
+  },
+  {
+   "s": "B",
+   "t": "And the Ministry of Finance owns the big banks' capital through something called Central Huijin."
+  },
+  {
+   "s": "A",
+   "t": "Right. Which tells you something. In China, the state is not just the referee. It's also the main shareholder."
+  },
+  {
+   "s": "B",
+   "t": "Okay, intermediaries. The slide says China's system is built around large state owned commercial banks, with lots of other institutions around them."
+  },
+  {
+   "s": "A",
+   "t": "And then there's a line about the central bank I really like. A commercial bank's liability is a deposit you hold. The central bank's liability is the currency everyone holds. That difference is why it can set the price of money."
+  },
+  {
+   "s": "B",
+   "t": "Ooh. Say that again?"
+  },
+  {
+   "s": "A",
+   "t": "When you hold a hundred yuan note, that's technically a liability of the central bank. Everyone uses it. So the central bank decides how much of the base money exists and what it costs. A normal bank can't do that."
+  },
+  {
+   "s": "B",
+   "t": "That's a good one for the exam. Okay, and policy banks?"
+  },
+  {
+   "s": "A",
+   "t": "Policy banks are state banks that lend for national goals, not profit. Infrastructure, exports, agriculture. They don't take public deposits; they fund themselves with state capital and bonds."
+  },
+  {
+   "s": "B",
+   "t": "And commercial banks create money."
+  },
+  {
+   "s": "A",
+   "t": "Yes, and that surprises people. When a bank makes a loan, it credits the borrower's account. That's a brand new deposit. So lending literally expands the money supply."
+  },
+  {
+   "s": "B",
+   "t": "Okay, then the non banks. Eight of them. Let me try to do this quickly. Securities companies."
+  },
+  {
+   "s": "A",
+   "t": "Investment banks, basically. Brokerage, trading, underwriting IPOs. Fun fact from the slide, in the US they're called investment banks, in East Asia securities firms, and in Germany they're often just a division of a universal bank."
+  },
+  {
+   "s": "B",
+   "t": "Fund management companies."
+  },
+  {
+   "s": "A",
+   "t": "Pool money from lots of people, professional managers invest it. The slide calls it risk sharing by contract. The direct finance idea wearing an intermediary's clothes."
+  },
+  {
+   "s": "B",
+   "t": "Ha, nice. Stock exchanges."
+  },
+  {
+   "s": "A",
+   "t": "Three of them. Shanghai, nineteen ninety. Shenzhen, also nineteen ninety, known for growth and tech. And Beijing, twenty twenty one, for innovative small and medium firms. And they're legally not for profit, self regulating."
+  },
+  {
+   "s": "B",
+   "t": "Then asset management companies. The AMCs."
+  },
+  {
+   "s": "A",
+   "t": "These are interesting. Four big ones were created in the late nineties to take bad loans, non performing loans, off the books of the state banks. Basically a cleanup crew. And the slide adds, they are also balance sheets that can fail like any other."
+  },
+  {
+   "s": "B",
+   "t": "Which, I think one of them did get into trouble a few years back."
+  },
+  {
+   "s": "A",
+   "t": "Yeah, let's not go there today, but keep that in mind. Insurance companies. Two sided business. They collect premiums and pay claims, and in the meantime they invest those premiums, so they're huge institutional investors."
+  },
+  {
+   "s": "B",
+   "t": "Trust companies."
+  },
+  {
+   "s": "A",
+   "t": "This is the one with the honest footnote. Officially, trusts manage assets for clients and don't take deposits. But in practice, the slide says, pooled trust plans long served as a deposit substitute with implicit guarantees."
+  },
+  {
+   "s": "B",
+   "t": "Meaning people thought they were as safe as a bank deposit."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Hold onto that. It's basically shadow banking, which comes back later."
+  },
+  {
+   "s": "B",
+   "t": "And then leasing companies, and finance companies, which are like internal banks for big corporate groups."
+  },
+  {
+   "s": "A",
+   "t": "Right. And to wrap the section, seven functions of intermediaries. The ones I'd really remember are information production, they screen and monitor borrowers, and maturity transformation."
+  },
+  {
+   "s": "B",
+   "t": "Borrow short, lend long."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Your deposit can be withdrawn tomorrow, but the bank uses it to fund a twenty year mortgage. That's the magic, and also the fragility, of banking."
+  },
+  {
+   "s": "B",
+   "t": "Okay. So if you had to compress this whole lecture into, like, three things to remember?"
+  },
+  {
+   "s": "A",
+   "t": "One. Finance moves money from surplus sectors, mostly households, to shortage sectors, mostly firms and government, either directly through markets or indirectly through banks. Two. The same security is an instrument, an asset, and a product depending on who's looking. And three. China's system is a map with authorities on top, the PBOC, the CSRC, the NFRA, SAFE, coordinated by the Central Financial Commission, and markets and institutions underneath, with big state banks at the center."
+  },
+  {
+   "s": "B",
+   "t": "Perfect. And next time, the history. How China went from a planned economy to all of this."
+  },
+  {
+   "s": "A",
+   "t": "Which is honestly the fun part. See you then."
+  },
+  {
+   "s": "B",
+   "t": "See you."
+  }
+ ]
+}

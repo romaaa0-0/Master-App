@@ -1,0 +1,383 @@
+{
+ "title": "Lecture 3: Central Bank and Monetary Policy",
+ "hosts": {
+  "A": {
+   "name": "Maya",
+   "voice": "af_heart"
+  },
+  "B": {
+   "name": "Leo",
+   "voice": "am_michael"
+  }
+ },
+ "lines": [
+  {
+   "s": "A",
+   "t": "Hey everyone, Maya here."
+  },
+  {
+   "s": "B",
+   "t": "Leo here. And today, the central bank. Lecture three. Central Bank and Monetary Policy in China."
+  },
+  {
+   "s": "A",
+   "t": "Which, I'll be honest, is the densest one so far. So we're going to focus on the story and the big ideas, and leave the tables for the summary tab."
+  },
+  {
+   "s": "B",
+   "t": "Deal. So, start simple. What does a central bank do?"
+  },
+  {
+   "s": "A",
+   "t": "The classic list. It issues the only legal currency. It's the bankers' bank, meaning the lender of last resort when banks are in trouble. It's the government's bank and runs the payment system. It conducts monetary policy. And it supervises."
+  },
+  {
+   "s": "B",
+   "t": "And the PBOC does all that, plus more."
+  },
+  {
+   "s": "A",
+   "t": "Plus two extra jobs. It manages the exchange rate, and it administers the capital account, meaning the rules on money flowing in and out of China. And the slide says those aren't side duties. They're the reason its toolbox has to be so big."
+  },
+  {
+   "s": "B",
+   "t": "And it's not independent like the Fed."
+  },
+  {
+   "s": "A",
+   "t": "Right. It's a ministry level body under the State Council. Its legal mandate is, quote, maintain the stability of the value of the currency, and thereby promote economic growth. And the Central Financial Commission, the Party body, sets the direction."
+  },
+  {
+   "s": "B",
+   "t": "How big is it?"
+  },
+  {
+   "s": "A",
+   "t": "Its balance sheet is about forty two trillion yuan, one of the biggest central bank balance sheets in the world. And inside it, you have SAFE, the digital yuan institute, the cross border payment system, the credit registry."
+  },
+  {
+   "s": "B",
+   "t": "Okay, and then there's the history. Seven stages. Let's do it like a story."
+  },
+  {
+   "s": "A",
+   "t": "Okay. Stage one, nineteen forty eight to seventy eight. The monobank. The PBOC is founded on December first, nineteen forty eight, in Shijiazhuang, from merging three banks. And for thirty years it's basically the only bank. Its job is to match credit to the production plan."
+  },
+  {
+   "s": "B",
+   "t": "And the slide says that wasn't stupid."
+  },
+  {
+   "s": "A",
+   "t": "Right. The line is, a coherent framework matched to planning, not a crude precursor. If prices aren't set by markets, interest rate tools wouldn't work anyway."
+  },
+  {
+   "s": "B",
+   "t": "Stage two, the split."
+  },
+  {
+   "s": "A",
+   "t": "Nineteen seventy nine to eighty four. Four state banks split off, and the loan for grant reform. State firms stop getting free budget money and start getting bank loans instead. In nineteen eighty four, ICBC is carved out to take over the PBOC's commercial lending."
+  },
+  {
+   "s": "B",
+   "t": "And the key line there?"
+  },
+  {
+   "s": "A",
+   "t": "The split created the banks. It did not yet create banking."
+  },
+  {
+   "s": "B",
+   "t": "Ooh. Because they're still just lending where the plan tells them."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. They're cashier windows, not credit risk judges. Stage three. Inflation. Two of them. In nineteen eighty eight, price reform pushes inflation to around eighteen percent. Then in the early nineties, there's a credit surge, and by nineteen ninety four inflation peaks around twenty four percent."
+  },
+  {
+   "s": "B",
+   "t": "Twenty four percent!"
+  },
+  {
+   "s": "A",
+   "t": "Yeah. And a big part of the problem was that local PBOC branches were lending to local projects under pressure from local governments."
+  },
+  {
+   "s": "B",
+   "t": "So the local branch manager gets a call from the governor saying, we need this factory, lend the money."
+  },
+  {
+   "s": "A",
+   "t": "Basically. So in nineteen ninety three, there's a big decision on financial reform. Create a real central bank, separate policy banks from commercial banks, centralize monetary policy. And the key line: the second inflation, not the first, produced the legal framework."
+  },
+  {
+   "s": "B",
+   "t": "Stage four, nineteen ninety five, the PBOC Law."
+  },
+  {
+   "s": "A",
+   "t": "And there's one line in it that the lecture calls the one line that made it a central bank. Article twenty nine. No overdraft to the government. No direct purchase of treasury debt."
+  },
+  {
+   "s": "B",
+   "t": "So the government can't just print money to pay its bills."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. And the slide argues that's the real independence. Not who appoints the governor, but the ban on directly financing the deficit."
+  },
+  {
+   "s": "B",
+   "t": "But there's a twist."
+  },
+  {
+   "s": "A",
+   "t": "There's a twist. After two thousand eight, local governments found a workaround. They created local government financing vehicles, LGFVs, which borrowed from banks, not from the PBOC. So the rule held, but the financing just moved off budget."
+  },
+  {
+   "s": "B",
+   "t": "Classic. Okay, stage five."
+  },
+  {
+   "s": "A",
+   "t": "Nineteen ninety eight. To stop local capture, they abolished provincial branches and created nine regional branches that crossed province lines. So no single governor controlled a branch. And credit quotas were abolished. Big moment."
+  },
+  {
+   "s": "B",
+   "t": "And that lasted until..."
+  },
+  {
+   "s": "A",
+   "t": "Twenty twenty three, when they went back to provincial branches. Times change, digital systems, different problems. Stage six, two thousand three. Bank supervision gets moved out into a separate regulator, the CBRC. So the PBOC focuses on monetary policy."
+  },
+  {
+   "s": "B",
+   "t": "But that created gaps."
+  },
+  {
+   "s": "A",
+   "t": "Right. The central bank sees the big picture, the regulator sees individual banks, and things fall between them. Like shadow banking. And stage seven, since twenty seventeen, coordination. Committees, mergers of regulators, and eventually the NFRA in twenty twenty three. That's actually the whole next lecture."
+  },
+  {
+   "s": "B",
+   "t": "And the big lesson from all seven stages?"
+  },
+  {
+   "s": "A",
+   "t": "Reform is crisis driven, not scheduled. Separate functions when the conflict gets costly, coordinate again when the separation gets costly. Back and forth."
+  },
+  {
+   "s": "B",
+   "t": "Alright. Money. M zero, M one, M two."
+  },
+  {
+   "s": "A",
+   "t": "M zero is cash. Notes and coins. About twelve trillion yuan. The only thing the PBOC fully controls. M one adds demand deposits, money in checking accounts that you can spend right away. And M two adds savings and time deposits. About three hundred thirteen trillion."
+  },
+  {
+   "s": "B",
+   "t": "And there's this scissors gap thing."
+  },
+  {
+   "s": "A",
+   "t": "Yeah, this is nice. If M one grows faster than M two, money is being activated. People and firms are moving money into spending accounts, so the economy is heating up. If M two grows faster, money is being parked in savings. People are cautious."
+  },
+  {
+   "s": "B",
+   "t": "And M one was redefined recently."
+  },
+  {
+   "s": "A",
+   "t": "December twenty twenty four. The old M one only counted corporate checking accounts. But with mobile payments, so much spending money sits in personal accounts and in Alipay or WeChat Pay reserves. The old M one actually fell for eighteen months while retail sales were growing. So they added household demand deposits and payment institution reserves."
+  },
+  {
+   "s": "B",
+   "t": "Okay, and the M two to GDP ratio. China's is like, huge?"
+  },
+  {
+   "s": "A",
+   "t": "About two hundred thirty two percent. The US is around seventy two."
+  },
+  {
+   "s": "B",
+   "t": "Why?"
+  },
+  {
+   "s": "A",
+   "t": "Because the system is bank based. Savings sit as deposits instead of in stocks or funds. High savings rate, about forty five percent. Few other places to put money, except housing. And deposit rates are kept low, so banks have lots of cheap funding."
+  },
+  {
+   "s": "B",
+   "t": "Does that mean inflation?"
+  },
+  {
+   "s": "A",
+   "t": "Not automatically. It's more a sign that each unit of capital produces less GDP over time. And it stopped rising after twenty seventeen, when shadow banking was reined in."
+  },
+  {
+   "s": "B",
+   "t": "Okay, the balance sheet. Three eras."
+  },
+  {
+   "s": "A",
+   "t": "This is one of my favorite slides, because it tells the whole story through the balance sheet. Era one, two thousand three to twenty fourteen. China is exporting like crazy. Exporters earn dollars, swap them for yuan at banks, banks swap them with the PBOC. So the PBOC is buying dollars and creating yuan. Foreign assets go up to about twenty seven trillion yuan."
+  },
+  {
+   "s": "B",
+   "t": "And that's a lot of new money."
+  },
+  {
+   "s": "A",
+   "t": "Way too much. So they have to sterilize it. Soak it back up. They issue central bank bills and they raise the reserve requirement, the RRR. That's the share of deposits banks must park at the central bank."
+  },
+  {
+   "s": "B",
+   "t": "How high did that go?"
+  },
+  {
+   "s": "A",
+   "t": "From about six percent in two thousand three to about twenty one percent by twenty eleven."
+  },
+  {
+   "s": "B",
+   "t": "Twenty one percent of deposits, just locked up. Wow."
+  },
+  {
+   "s": "A",
+   "t": "The slide calls it quantity absorbing quantity. Era two, twenty fifteen to twenty nineteen. The dollars stop flowing in. So now the PBOC injects money differently, by lending to banks. Tools like the MLF, the medium term lending facility, and the PSL, pledged supplementary lending for policy banks."
+  },
+  {
+   "s": "B",
+   "t": "And era three, the twenty twenties, structural tools."
+  },
+  {
+   "s": "A",
+   "t": "Targeted lending to specific sectors. Green, tech, small firms, rental housing. And the takeaway: money creation now depends on the PBOC's lending decisions, not the trade surplus."
+  },
+  {
+   "s": "B",
+   "t": "Okay, monetary policy itself. Objectives, instruments, transmission."
+  },
+  {
+   "s": "A",
+   "t": "Objectives first. The Fed has a dual mandate, prices and jobs. The ECB has basically one, inflation. The PBOC pursues several at once. Price stability, growth, employment, balance of payments, financial stability. With no published ranking."
+  },
+  {
+   "s": "B",
+   "t": "Which sounds flexible, but also kind of confusing."
+  },
+  {
+   "s": "A",
+   "t": "The lecture says exactly that. Pragmatic for a developing economy, but it creates target conflicts and makes it less transparent."
+  },
+  {
+   "s": "B",
+   "t": "Okay, and then the phases of policy. What's the moment where modern Chinese monetary policy is born?"
+  },
+  {
+   "s": "A",
+   "t": "Nineteen ninety eight. When credit quotas are abolished. Before that, the PBOC literally told banks how much to lend. After that, it manages overall liquidity instead."
+  },
+  {
+   "s": "B",
+   "t": "And twenty fifteen is another turning point."
+  },
+  {
+   "s": "A",
+   "t": "Three things in one year. In August, the eight eleven FX reform, the daily fixing becomes more market based and the yuan drops about three percent in one go. Capital starts flowing out. Second, the stock market crash, the Shanghai index falls about forty five percent. And third, the interest rate corridor gets formalized."
+  },
+  {
+   "s": "B",
+   "t": "Explain the corridor, because I always get confused."
+  },
+  {
+   "s": "A",
+   "t": "Think of a hallway. The ceiling is the rate banks pay for emergency borrowing from the central bank. That's the SLF. Nobody would borrow from each other above that, they'd just go to the central bank. The floor is the rate the central bank pays on excess reserves, IOER, point three five percent. Nobody lends below that, they'd just leave the money at the central bank."
+  },
+  {
+   "s": "B",
+   "t": "And the market rate bounces around in between."
+  },
+  {
+   "s": "A",
+   "t": "Exactly, the overnight interbank repo rate, DR zero zero one. And in the middle you have the policy rate, the one the PBOC actually steers. That was the seven day reverse repo from July twenty twenty four. And very recent news on the slides: since November second, twenty twenty six, the anchor moved to the overnight reverse repo at one point two five percent."
+  },
+  {
+   "s": "B",
+   "t": "So that's like, this month."
+  },
+  {
+   "s": "A",
+   "t": "Yeah, literally a few weeks ago. Worth remembering for the exam."
+  },
+  {
+   "s": "B",
+   "t": "Then the LPR reform in twenty nineteen."
+  },
+  {
+   "s": "A",
+   "t": "The problem was, the PBOC would cut rates and corporate borrowing costs barely moved, because banks priced loans off an old benchmark. So in twenty nineteen they fixed the loan prime rate, the LPR, which twenty banks quote every month, and tied it to the policy rate. Now it's policy rate, then LPR, then your loan rate."
+  },
+  {
+   "s": "B",
+   "t": "The last mile."
+  },
+  {
+   "s": "A",
+   "t": "Almost. The slide says the real last mile is deposit rates, which are still coordinated, not competed."
+  },
+  {
+   "s": "B",
+   "t": "And then why is the price channel weak overall?"
+  },
+  {
+   "s": "A",
+   "t": "Four links. Policy rate, deposit rate, lending rate, real activity. And each leaks. Deposit rates are sticky. Lending rates get negotiated with state linked borrowers. And the big one, borrowers with implicit guarantees don't care about price."
+  },
+  {
+   "s": "B",
+   "t": "The soft budget constraint again!"
+  },
+  {
+   "s": "A",
+   "t": "It's everywhere. If you know you'll be bailed out, a rate hike doesn't scare you. So the slide says it's an institutional problem, not a technical one. That's why quantity tools stuck around."
+  },
+  {
+   "s": "B",
+   "t": "Okay, last piece. The impossible trinity."
+  },
+  {
+   "s": "A",
+   "t": "You can only have two out of three. Independent monetary policy, a fixed exchange rate, and free capital flows. China, from ninety four to twenty fifteen, kept monetary independence and a managed exchange rate, and gave up free capital flows. Capital controls."
+  },
+  {
+   "s": "B",
+   "t": "So the reserve pile and the high RRR were the cost of keeping the currency stable."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. And after twenty fifteen, more flexibility in the exchange rate, but controls still there. And when fighting deflation means cutting rates, which weakens the currency, China uses the capital account to handle that, not the interest rate."
+  },
+  {
+   "s": "B",
+   "t": "Okay. Three things to remember?"
+  },
+  {
+   "s": "A",
+   "t": "One. The PBOC does more jobs than the Fed or the ECB, including the exchange rate and the capital account, and it pursues several objectives at once. Two. Its history is crisis driven. The second inflation gave us the nineteen ninety five law, and Article twenty nine, no direct financing of the government, is its real independence. And three. China's toolbox is long because the price channel is weak, mainly because of soft budget constraints. The big reforms, ninety eight abolishing credit quotas, the corridor, the twenty nineteen LPR reform, are all about making the price channel work."
+  },
+  {
+   "s": "B",
+   "t": "And next time, regulators. Even more acronyms."
+  },
+  {
+   "s": "A",
+   "t": "Oh, so many. See you then."
+  },
+  {
+   "s": "B",
+   "t": "Bye!"
+  }
+ ]
+}

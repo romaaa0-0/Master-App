@@ -1,3 +1,120 @@
 {
-  "lectures": []
+  "lectures": [
+    {
+      "id": "01",
+      "title": "Lecture 1: Introduction to the Chinese Financial System",
+      "date": "2026-11-17",
+      "description": "Assets, markets and institutions",
+      "sections": [
+        {
+          "type": "markdown",
+          "title": "Summary",
+          "file": "lectures/01/summary.md"
+        },
+        {
+          "type": "podcast",
+          "title": "Podcast",
+          "audio": "lectures/01/podcast.mp3",
+          "transcript": "lectures/01/podcast.json"
+        },
+        {
+          "type": "files",
+          "title": "Slides",
+          "items": [
+            {
+              "name": "Lecture slides (PDF)",
+              "file": "lectures/01/slides.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Lecture 2: Chinese Economy and Financial Sectors",
+      "date": "2026-11-19",
+      "description": "From planned economy to today's system",
+      "sections": [
+        {
+          "type": "markdown",
+          "title": "Summary",
+          "file": "lectures/02/summary.md"
+        },
+        {
+          "type": "podcast",
+          "title": "Podcast",
+          "audio": "lectures/02/podcast.mp3",
+          "transcript": "lectures/02/podcast.json"
+        },
+        {
+          "type": "files",
+          "title": "Slides",
+          "items": [
+            {
+              "name": "Lecture slides (PDF)",
+              "file": "lectures/02/slides.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Lecture 3: Central Bank and Monetary Policy",
+      "date": "2026-11-23",
+      "description": "The PBOC, money supply and policy tools",
+      "sections": [
+        {
+          "type": "markdown",
+          "title": "Summary",
+          "file": "lectures/03/summary.md"
+        },
+        {
+          "type": "podcast",
+          "title": "Podcast",
+          "audio": "lectures/03/podcast.mp3",
+          "transcript": "lectures/03/podcast.json"
+        },
+        {
+          "type": "files",
+          "title": "Slides",
+          "items": [
+            {
+              "name": "Lecture slides (PDF)",
+              "file": "lectures/03/slides.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Lecture 4: Financial Regulation System",
+      "date": "2026-11-26",
+      "description": "Regulators and how they evolved",
+      "sections": [
+        {
+          "type": "markdown",
+          "title": "Summary",
+          "file": "lectures/04/summary.md"
+        },
+        {
+          "type": "podcast",
+          "title": "Podcast",
+          "audio": "lectures/04/podcast.mp3",
+          "transcript": "lectures/04/podcast.json"
+        },
+        {
+          "type": "files",
+          "title": "Slides",
+          "items": [
+            {
+              "name": "Lecture slides (PDF)",
+              "file": "lectures/04/slides.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

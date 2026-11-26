@@ -1,0 +1,540 @@
+{
+ "title": "Lecture 1: Introduction to the Chinese Financial System",
+ "hosts": [
+  "Maya",
+  "Leo"
+ ],
+ "duration": 807.9,
+ "lines": [
+  {
+   "speaker": "Maya",
+   "start": 0.6,
+   "text": "Hey, welcome back. So, this is the first episode for Financial Markets and Investments in China. I'm Maya."
+  },
+  {
+   "speaker": "Leo",
+   "start": 8.0,
+   "text": "And I'm Leo. And, uh, full honesty, when I opened this first lecture I thought, okay, intro week, definitions, easy."
+  },
+  {
+   "speaker": "Maya",
+   "start": 15.89,
+   "text": "Right."
+  },
+  {
+   "speaker": "Leo",
+   "start": 16.69,
+   "text": "And then there's like... twenty six slides of classifications."
+  },
+  {
+   "speaker": "Maya",
+   "start": 20.71,
+   "text": "Yeah, it's a lot of boxes. But here's the thing. This lecture is basically the map for the whole course. The professor literally says that on the last slide. Authorities on top, markets and institutions underneath. Everything later hangs on this."
+  },
+  {
+   "speaker": "Leo",
+   "start": 36.27,
+   "text": "Okay, so let's build the map. Where do we start?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 39.5,
+   "text": "We start with the simplest question. What is finance, actually?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 43.29,
+   "text": "Money. Next question."
+  },
+  {
+   "speaker": "Maya",
+   "start": 44.84,
+   "text": "Ha. Close. The lecture defines it as the flow of funds between different sectors of the economy. And the key idea is that some sectors have more money than they spend, and some have less."
+  },
+  {
+   "speaker": "Leo",
+   "start": 56.35,
+   "text": "Surplus and shortage."
+  },
+  {
+   "speaker": "Maya",
+   "start": 57.99,
+   "text": "Exactly. Surplus sectors, that's usually households. You earn your salary, you don't spend all of it, you save. And shortage sectors, usually firms and the government. They want to build a factory, a railway, whatever, and they need more money than they have."
+  },
+  {
+   "speaker": "Leo",
+   "start": 72.86,
+   "text": "So finance is the plumbing that moves money from my savings account to someone's factory."
+  },
+  {
+   "speaker": "Maya",
+   "start": 78.45,
+   "text": "That's a really good way to put it. And there are two ways the plumbing works. One is fiscal. The government taxes the surplus and spends it. The other is financial. Banks and markets link the two sides."
+  },
+  {
+   "speaker": "Leo",
+   "start": 91.05,
+   "text": "And within the financial way, there's direct and indirect, right?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 94.99,
+   "text": "Yes. Direct finance is when you, the saver, give money straight to the borrower. You buy a company's stock, you buy a government bond. No middleman owns that claim."
+  },
+  {
+   "speaker": "Leo",
+   "start": 105.48,
+   "text": "And indirect is the bank."
+  },
+  {
+   "speaker": "Maya",
+   "start": 107.25,
+   "text": "Indirect is the bank. You deposit money, the bank lends it out. You never meet the borrower. You have a claim on the bank, and the bank has a claim on the borrower."
+  },
+  {
+   "speaker": "Leo",
+   "start": 116.44,
+   "text": "Okay, and there's this line on the slide I liked. Markets and intermediaries are complements, not substitutes."
+  },
+  {
+   "speaker": "Maya",
+   "start": 124.04,
+   "text": "Yeah, that one's worth remembering. Markets price and trade claims. Intermediaries pool, transform and monitor risk. You need both. Which, honestly, matters a lot for China, because China is very bank heavy. We'll see that in later lectures."
+  },
+  {
+   "speaker": "Leo",
+   "start": 139.78,
+   "text": "Alright. Then we get into assets. And this is where I started to glaze over a bit, I'll admit."
+  },
+  {
+   "speaker": "Maya",
+   "start": 145.85,
+   "text": "Let me try to make it painless. An asset is anything that's valuable in exchange. Tangible assets are physical, like land or a machine. Intangible ones have no physical form, like a patent, a brand, goodwill. And financial assets."
+  },
+  {
+   "speaker": "Leo",
+   "start": 161.5,
+   "text": "Which are?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 162.64,
+   "text": "A claim. A financial asset entitles you to receive cash, or another financial asset, from somebody else. And the slide makes a sharp point here. Unlike a real asset, its value depends on the issuer's ability and willingness to pay."
+  },
+  {
+   "speaker": "Leo",
+   "start": 178.43,
+   "text": "So a bond is only worth something if the company can actually pay me back."
+  },
+  {
+   "speaker": "Maya",
+   "start": 183.11,
+   "text": "Right. A house is still a house even if the builder goes bankrupt. A bond from a bankrupt company is, well..."
+  },
+  {
+   "speaker": "Leo",
+   "start": 189.42,
+   "text": "Wallpaper."
+  },
+  {
+   "speaker": "Maya",
+   "start": 190.46,
+   "text": "Pretty much. Then there's this trio that I think is actually the most useful thing in the first half. Instruments, assets and products."
+  },
+  {
+   "speaker": "Leo",
+   "start": 198.67,
+   "text": "Okay, I'll be honest, I thought those were synonyms."
+  },
+  {
+   "speaker": "Maya",
+   "start": 202.22,
+   "text": "Most people do. The trick is it's the same thing seen from three angles. Take one corporate bond. To the company that issued it, it's an instrument, a legal contract they used to raise money. To you, the person holding it, it's an asset on your balance sheet. And when a bank packages a bunch of those bonds into a fund and sells it to the public, that's a product."
+  },
+  {
+   "speaker": "Leo",
+   "start": 224.2,
+   "text": "Oh, that's neat. Issuer view, holder view, market view."
+  },
+  {
+   "speaker": "Maya",
+   "start": 227.94,
+   "text": "Exactly. One security, three identities."
+  },
+  {
+   "speaker": "Leo",
+   "start": 230.8,
+   "text": "And products are, what, standardized?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 233.23,
+   "text": "That's the key word. A product is a standardized offering. Think mutual funds, ETFs, insurance policies, structured deposits. And standardization matters for three reasons. Contracts are uniform, so you can compare them. Pricing is transparent. And because they're all the same, they can trade easily in a secondary market."
+  },
+  {
+   "speaker": "Leo",
+   "start": 254.18,
+   "text": "Like a Treasury bond. Every one has the same maturity, coupon, face value."
+  },
+  {
+   "speaker": "Maya",
+   "start": 259.66,
+   "text": "Exactly the example in the slides."
+  },
+  {
+   "speaker": "Leo",
+   "start": 261.96,
+   "text": "Okay. Then we classify instruments. By duration and by nature."
+  },
+  {
+   "speaker": "Maya",
+   "start": 266.67,
+   "text": "By duration is the money market versus the capital market. Under one year is money market. Treasury bills, commercial paper, certificates of deposit. Over one year is capital market. Stocks, bonds, mortgages."
+  },
+  {
+   "speaker": "Leo",
+   "start": 280.69,
+   "text": "And by nature, debt, equity, derivatives."
+  },
+  {
+   "speaker": "Maya",
+   "start": 283.69,
+   "text": "Debt is a fixed claim. You lent money, you get your interest and principal back, nothing more. Equity is a residual claim. You own a piece, you get whatever's left after everyone else is paid. Could be a lot, could be zero."
+  },
+  {
+   "speaker": "Leo",
+   "start": 297.32,
+   "text": "And derivatives are the weird ones."
+  },
+  {
+   "speaker": "Maya",
+   "start": 299.73,
+   "text": "Derivatives are contracts whose payoff depends on something else. A stock, an interest rate, oil, a currency. Futures, options, swaps."
+  },
+  {
+   "speaker": "Leo",
+   "start": 308.74,
+   "text": "Okay. That's the asset side. Now markets."
+  },
+  {
+   "speaker": "Maya",
+   "start": 312.09,
+   "text": "So a financial market is a platform where buyers and sellers trade financial assets. And the lecture lists five functions. Want to try?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 320.82,
+   "text": "Hmm. Moving savings into investment."
+  },
+  {
+   "speaker": "Maya",
+   "start": 323.18,
+   "text": "Yes."
+  },
+  {
+   "speaker": "Leo",
+   "start": 324.01,
+   "text": "Liquidity. Being able to sell when you want."
+  },
+  {
+   "speaker": "Maya",
+   "start": 326.72,
+   "text": "Yes."
+  },
+  {
+   "speaker": "Leo",
+   "start": 327.44,
+   "text": "Price discovery?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 328.93,
+   "text": "Yep. Prices reflect supply, demand, and information."
+  },
+  {
+   "speaker": "Leo",
+   "start": 332.62,
+   "text": "Uh... reducing costs?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 334.28,
+   "text": "Transaction costs, yes. And the fifth one is risk. Markets let you transfer, hedge, and diversify risk."
+  },
+  {
+   "speaker": "Leo",
+   "start": 341.46,
+   "text": "Four out of five, I'll take it."
+  },
+  {
+   "speaker": "Maya",
+   "start": 343.44,
+   "text": "Then there's this long section on six ways to classify markets. I'll go fast, because honestly, this is the kind of thing you'll want to look at in the summary tab rather than hear."
+  },
+  {
+   "speaker": "Leo",
+   "start": 354.17,
+   "text": "Good call."
+  },
+  {
+   "speaker": "Maya",
+   "start": 355.26,
+   "text": "By what's traded. Money market, capital market, foreign exchange, gold. By financing method, direct or indirect. By transaction level, primary or secondary."
+  },
+  {
+   "speaker": "Leo",
+   "start": 366.3,
+   "text": "Primary is when the security is first issued. Like an IPO."
+  },
+  {
+   "speaker": "Maya",
+   "start": 370.83,
+   "text": "Exactly. The company gets the money. Secondary is when investors trade it among themselves afterwards. The company doesn't get anything from that, but it's what gives investors liquidity. And honestly, without a good secondary market, nobody would buy in the primary one."
+  },
+  {
+   "speaker": "Leo",
+   "start": 387.1,
+   "text": "Because you'd be stuck with it forever."
+  },
+  {
+   "speaker": "Maya",
+   "start": 389.1,
+   "text": "Right. Then by pricing, open market with public bidding, like a stock exchange, versus negotiated, like over the counter. By organization, visible markets with a central venue versus invisible ones, dealer networks, like the FX market. And by delivery timing, spot versus derivatives."
+  },
+  {
+   "speaker": "Leo",
+   "start": 408.38,
+   "text": "Okay. And then China specifically."
+  },
+  {
+   "speaker": "Maya",
+   "start": 410.76,
+   "text": "China today has the full set. Money market, bond market, stock market, foreign exchange, commodity futures, financial derivatives, venture capital and private equity, insurance and funds, and a gold market."
+  },
+  {
+   "speaker": "Leo",
+   "start": 424.47,
+   "text": "I want to flag one thing from the money market slide. Repos. Repurchase agreements. Those come up again, right?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 432.16,
+   "text": "Oh, a lot. Especially in the monetary policy lecture. A repo is basically a short, collateralized loan. I sell you a bond today and promise to buy it back tomorrow at a slightly higher price. That small difference is the interest rate. Banks do this with each other, and with the central bank, all day long."
+  },
+  {
+   "speaker": "Leo",
+   "start": 451.75,
+   "text": "Got it. And for the capital market, the slide says in China the two pillars are equities and long term bonds."
+  },
+  {
+   "speaker": "Maya",
+   "start": 459.3,
+   "text": "Yes. And then FX, which is the biggest and most liquid market in the world, trading twenty four hours. And derivatives, where the slide makes a nice distinction. Over the counter derivatives are bigger but less regulated. Exchange traded ones are more transparent."
+  },
+  {
+   "speaker": "Leo",
+   "start": 476.23,
+   "text": "And four functions for derivatives. Hedging, speculation, price discovery, arbitrage."
+  },
+  {
+   "speaker": "Maya",
+   "start": 482.48,
+   "text": "You were paying attention."
+  },
+  {
+   "speaker": "Leo",
+   "start": 483.85,
+   "text": "I had coffee."
+  },
+  {
+   "speaker": "Maya",
+   "start": 485.29,
+   "text": "Okay, last big block. Institutions. And this is where China starts to look different."
+  },
+  {
+   "speaker": "Leo",
+   "start": 490.88,
+   "text": "Two classes. Regulators and intermediaries."
+  },
+  {
+   "speaker": "Maya",
+   "start": 494.26,
+   "text": "Right. The regulators first. The People's Bank of China, the PBOC, is the central bank. Monetary policy. The CSRC, the China Securities Regulatory Commission, handles stocks, bonds, futures. And the NFRA, the National Financial Regulatory Administration, handles banking and insurance."
+  },
+  {
+   "speaker": "Leo",
+   "start": 515.09,
+   "text": "And SAFE."
+  },
+  {
+   "speaker": "Maya",
+   "start": 516.22,
+   "text": "SAFE, the State Administration of Foreign Exchange, runs FX, the reserves, and capital account rules. And it's administered by the PBOC. And then, since twenty twenty three, there's the Central Financial Commission sitting above all of them, at the Party level, coordinating."
+  },
+  {
+   "speaker": "Leo",
+   "start": 533.96,
+   "text": "And the Ministry of Finance owns the big banks' capital through something called Central Huijin."
+  },
+  {
+   "speaker": "Maya",
+   "start": 540.42,
+   "text": "Right. Which tells you something. In China, the state is not just the referee. It's also the main shareholder."
+  },
+  {
+   "speaker": "Leo",
+   "start": 547.22,
+   "text": "Okay, intermediaries. The slide says China's system is built around large state owned commercial banks, with lots of other institutions around them."
+  },
+  {
+   "speaker": "Maya",
+   "start": 557.4,
+   "text": "And then there's a line about the central bank I really like. A commercial bank's liability is a deposit you hold. The central bank's liability is the currency everyone holds. That difference is why it can set the price of money."
+  },
+  {
+   "speaker": "Leo",
+   "start": 571.87,
+   "text": "Ooh. Say that again?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 573.23,
+   "text": "When you hold a hundred yuan note, that's technically a liability of the central bank. Everyone uses it. So the central bank decides how much of the base money exists and what it costs. A normal bank can't do that."
+  },
+  {
+   "speaker": "Leo",
+   "start": 586.28,
+   "text": "That's a good one for the exam. Okay, and policy banks?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 590.11,
+   "text": "Policy banks are state banks that lend for national goals, not profit. Infrastructure, exports, agriculture. They don't take public deposits; they fund themselves with state capital and bonds."
+  },
+  {
+   "speaker": "Leo",
+   "start": 602.53,
+   "text": "And commercial banks create money."
+  },
+  {
+   "speaker": "Maya",
+   "start": 604.66,
+   "text": "Yes, and that surprises people. When a bank makes a loan, it credits the borrower's account. That's a brand new deposit. So lending literally expands the money supply."
+  },
+  {
+   "speaker": "Leo",
+   "start": 615.45,
+   "text": "Okay, then the non banks. Eight of them. Let me try to do this quickly. Securities companies."
+  },
+  {
+   "speaker": "Maya",
+   "start": 621.6,
+   "text": "Investment banks, basically. Brokerage, trading, underwriting IPOs. Fun fact from the slide, in the US they're called investment banks, in East Asia securities firms, and in Germany they're often just a division of a universal bank."
+  },
+  {
+   "speaker": "Leo",
+   "start": 637.31,
+   "text": "Fund management companies."
+  },
+  {
+   "speaker": "Maya",
+   "start": 639.35,
+   "text": "Pool money from lots of people, professional managers invest it. The slide calls it risk sharing by contract. The direct finance idea wearing an intermediary's clothes."
+  },
+  {
+   "speaker": "Leo",
+   "start": 650.57,
+   "text": "Ha, nice. Stock exchanges."
+  },
+  {
+   "speaker": "Maya",
+   "start": 652.98,
+   "text": "Three of them. Shanghai, nineteen ninety. Shenzhen, also nineteen ninety, known for growth and tech. And Beijing, twenty twenty one, for innovative small and medium firms. And they're legally not for profit, self regulating."
+  },
+  {
+   "speaker": "Leo",
+   "start": 667.75,
+   "text": "Then asset management companies. The AMCs."
+  },
+  {
+   "speaker": "Maya",
+   "start": 671.3,
+   "text": "These are interesting. Four big ones were created in the late nineties to take bad loans, non performing loans, off the books of the state banks. Basically a cleanup crew. And the slide adds, they are also balance sheets that can fail like any other."
+  },
+  {
+   "speaker": "Leo",
+   "start": 686.58,
+   "text": "Which, I think one of them did get into trouble a few years back."
+  },
+  {
+   "speaker": "Maya",
+   "start": 690.49,
+   "text": "Yeah, let's not go there today, but keep that in mind. Insurance companies. Two sided business. They collect premiums and pay claims, and in the meantime they invest those premiums, so they're huge institutional investors."
+  },
+  {
+   "speaker": "Leo",
+   "start": 703.99,
+   "text": "Trust companies."
+  },
+  {
+   "speaker": "Maya",
+   "start": 705.39,
+   "text": "This is the one with the honest footnote. Officially, trusts manage assets for clients and don't take deposits. But in practice, the slide says, pooled trust plans long served as a deposit substitute with implicit guarantees."
+  },
+  {
+   "speaker": "Leo",
+   "start": 719.95,
+   "text": "Meaning people thought they were as safe as a bank deposit."
+  },
+  {
+   "speaker": "Maya",
+   "start": 723.45,
+   "text": "Exactly. Hold onto that. It's basically shadow banking, which comes back later."
+  },
+  {
+   "speaker": "Leo",
+   "start": 728.45,
+   "text": "And then leasing companies, and finance companies, which are like internal banks for big corporate groups."
+  },
+  {
+   "speaker": "Maya",
+   "start": 735.19,
+   "text": "Right. And to wrap the section, seven functions of intermediaries. The ones I'd really remember are information production, they screen and monitor borrowers, and maturity transformation."
+  },
+  {
+   "speaker": "Leo",
+   "start": 747.01,
+   "text": "Borrow short, lend long."
+  },
+  {
+   "speaker": "Maya",
+   "start": 748.83,
+   "text": "Exactly. Your deposit can be withdrawn tomorrow, but the bank uses it to fund a twenty year mortgage. That's the magic, and also the fragility, of banking."
+  },
+  {
+   "speaker": "Leo",
+   "start": 758.67,
+   "text": "Okay. So if you had to compress this whole lecture into, like, three things to remember?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 764.09,
+   "text": "One. Finance moves money from surplus sectors, mostly households, to shortage sectors, mostly firms and government, either directly through markets or indirectly through banks. Two. The same security is an instrument, an asset, and a product depending on who's looking. And three. China's system is a map with authorities on top, the PBOC, the CSRC, the NFRA, SAFE, coordinated by the Central Financial Commission, and markets and institutions underneath, with big state banks at the center."
+  },
+  {
+   "speaker": "Leo",
+   "start": 797.39,
+   "text": "Perfect. And next time, the history. How China went from a planned economy to all of this."
+  },
+  {
+   "speaker": "Maya",
+   "start": 803.61,
+   "text": "Which is honestly the fun part. See you then."
+  },
+  {
+   "speaker": "Leo",
+   "start": 806.18,
+   "text": "See you."
+  }
+ ]
+}
