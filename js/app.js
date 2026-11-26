@@ -10,6 +10,7 @@
   const COLORS = ["#0a84ff", "#30d158", "#ff9f0a", "#bf5af2", "#ff375f", "#64d2ff"];
   const cache = new Map();
   let lastDepth = 0;
+  let cleanup = null; // set by a section that needs teardown (e.g. stop audio)
 
   // ---------- data loading ----------
   async function getJSON(path) {
@@ -163,7 +164,11 @@
       const base = `content/${mId}/${cId}/`;
       const renderer = SECTION_TYPES[sections[idx].type];
       try {
-        el.innerHTML = renderer ? await renderer(sections[idx], base) : `<div class="empty">Unknown section type “${esc(sections[idx].type)}”.</div>`;
+        const out = renderer ? await renderer(sections[idx], base, { lecture: lec, className: cMeta.title }) : `<div class="empty">Unknown section type “${esc(sections[idx].type)}”.</div>`;
+        // A renderer returns an HTML string, or { html, mount } when it needs
+        // to wire up behaviour (mount may return a cleanup function).
+        el.innerHTML = typeof out === "string" ? out : out.html;
+        if (out && out.mount) cleanup = out.mount(el) || null;
       } catch (e) {
         el.innerHTML = `<div class="empty error">${esc(e.message)}</div>`;
       }
@@ -193,10 +198,142 @@
           <span class="body"><div class="title">${esc(f.name || f.file)}</div></span>${chevron}</a>`;
       }).join("") + `</div>`;
     },
+    // { "type": "podcast", "title": "Podcast", "audio": "lectures/01/podcast.mp3",
+    //   "transcript": "lectures/01/podcast.json" }   (transcript optional)
+    // Transcript JSON: { hosts: ["Maya","Leo"], duration, lines: [{ speaker, start, text }] }
+    // Made by tools/podcast/generate.py.
+    async podcast(section, base, ctx) {
+      const src = base + section.audio;
+      const tr = section.transcript ? await getJSON(base + section.transcript).catch(() => null) : null;
+      const lines = (tr && tr.lines) || [];
+      const hosts = (tr && tr.hosts) || [];
+      const posKey = "pos:" + src;
+      const html = `
+        <div class="card player">
+          <div class="pod-art" aria-hidden="true">🎙️</div>
+          <div class="pod-title">${esc(ctx.lecture.title)}</div>
+          <div class="pod-hosts">${esc(hosts.length ? "With " + hosts.join(" & ") : ctx.className)}</div>
+          <input class="pod-seek" type="range" min="0" max="${tr?.duration || 100}" step="0.1" value="0" aria-label="Seek">
+          <div class="pod-times"><span class="pod-cur">0:00</span><span class="pod-left">-${fmtTime(tr?.duration)}</span></div>
+          <div class="pod-controls">
+            <button class="pod-speed" aria-label="Playback speed">1×</button>
+            <button class="pod-back" aria-label="Back 15 seconds">${skipIcon(15, false)}</button>
+            <button class="pod-play" aria-label="Play">${ICON_PLAY}</button>
+            <button class="pod-fwd" aria-label="Forward 30 seconds">${skipIcon(30, true)}</button>
+            <span class="pod-spacer"></span>
+          </div>
+          <audio preload="metadata" src="${esc(src)}"></audio>
+        </div>
+        ${lines.length ? `<div class="section-title">Transcript</div>
+        <div class="card transcript">${lines.map((l, i) => `<p class="tl" data-i="${i}" data-t="${l.start}">
+          <span class="who ${hosts.indexOf(l.speaker) === 1 ? "b" : "a"}">${esc(l.speaker)}</span>${esc(l.text)}</p>`).join("")}</div>` : ""}`;
+
+      function mount(el) {
+        const $ = (s) => el.querySelector(s);
+        const audio = $("audio"), seek = $(".pod-seek"), play = $(".pod-play"), speedBtn = $(".pod-speed");
+        const tls = [...el.querySelectorAll(".tl")];
+        let seeking = false, active = -1, follow = true, lastSave = 0;
+        let speed = store.get("podcast:speed") || 1;
+        const saved = store.get(posKey);
+
+        const setSpeed = (v) => { speed = v; audio.playbackRate = v; audio.defaultPlaybackRate = v; speedBtn.textContent = `${v}×`; store.set("podcast:speed", v); };
+        setSpeed(speed);
+        const dur = () => (isFinite(audio.duration) && audio.duration) || tr?.duration || 0;
+        const paint = (t) => {
+          if (!seeking) seek.value = t;
+          seek.style.setProperty("--p", `${(t / (dur() || 1)) * 100}%`);
+          $(".pod-cur").textContent = fmtTime(t);
+          $(".pod-left").textContent = "-" + fmtTime(dur() - t);
+          // highlight the line being spoken
+          let i = active;
+          if (tls.length) {
+            i = lines.findIndex((l, k) => t >= l.start && (k === lines.length - 1 || t < lines[k + 1].start));
+            if (i !== active) {
+              tls[active]?.classList.remove("on");
+              tls[i]?.classList.add("on");
+              if (i >= 0 && follow && !audio.paused) tls[i].scrollIntoView({ block: "nearest", behavior: "smooth" });
+              active = i;
+            }
+          }
+        };
+        audio.addEventListener("loadedmetadata", () => {
+          seek.max = audio.duration;
+          if (saved && saved < audio.duration - 5) audio.currentTime = saved;
+          paint(audio.currentTime);
+        });
+        audio.addEventListener("timeupdate", () => {
+          paint(audio.currentTime);
+          if (Math.abs(audio.currentTime - lastSave) > 3) { lastSave = audio.currentTime; store.set(posKey, audio.currentTime); }
+        });
+        audio.addEventListener("play", () => { play.innerHTML = ICON_PAUSE; play.setAttribute("aria-label", "Pause"); audio.playbackRate = speed; });
+        audio.addEventListener("pause", () => { play.innerHTML = ICON_PLAY; play.setAttribute("aria-label", "Play"); store.set(posKey, audio.currentTime); });
+        audio.addEventListener("ended", () => store.set(posKey, 0));
+        audio.addEventListener("error", () => { $(".pod-hosts").innerHTML = '<span class="error">Could not load the audio. Check your connection.</span>'; });
+
+        play.onclick = () => (audio.paused ? audio.play() : audio.pause());
+        $(".pod-back").onclick = () => { audio.currentTime = Math.max(0, audio.currentTime - 15); };
+        $(".pod-fwd").onclick = () => { audio.currentTime = Math.min(dur(), audio.currentTime + 30); };
+        speedBtn.onclick = () => setSpeed(SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]);
+        seek.addEventListener("input", () => { seeking = true; paint(+seek.value); });
+        seek.addEventListener("change", () => { audio.currentTime = +seek.value; seeking = false; });
+        if (saved) paint(saved);
+
+        // tap a transcript line to jump there
+        el.addEventListener("click", (e) => {
+          const p = e.target.closest(".tl");
+          if (!p) return;
+          audio.currentTime = +p.dataset.t;
+          follow = true;
+          if (audio.paused) audio.play();
+        });
+        // stop auto-scrolling when the user scrolls the page themselves
+        const stopFollow = () => { follow = false; clearTimeout(stopFollow.t); stopFollow.t = setTimeout(() => (follow = true), 6000); };
+        window.addEventListener("touchmove", stopFollow, { passive: true });
+        window.addEventListener("wheel", stopFollow, { passive: true });
+
+        // lock screen / Control Center controls
+        if ("mediaSession" in navigator) {
+          navigator.mediaSession.metadata = new MediaMetadata({
+            title: ctx.lecture.title, artist: hosts.join(" & ") || "Podcast", album: ctx.className,
+            artwork: [{ src: "icons/icon-512.png", sizes: "512x512", type: "image/png" }],
+          });
+          const ms = navigator.mediaSession;
+          const set = (a, f) => { try { ms.setActionHandler(a, f); } catch (_) {} };
+          set("play", () => audio.play());
+          set("pause", () => audio.pause());
+          set("seekbackward", () => { audio.currentTime = Math.max(0, audio.currentTime - 15); });
+          set("seekforward", () => { audio.currentTime = Math.min(dur(), audio.currentTime + 30); });
+          set("seekto", (d) => { audio.currentTime = d.seekTime; });
+        }
+        return () => {
+          store.set(posKey, audio.currentTime);
+          audio.pause(); audio.removeAttribute("src"); audio.load();
+          window.removeEventListener("touchmove", stopFollow);
+          window.removeEventListener("wheel", stopFollow);
+        };
+      }
+      return { html, mount };
+    },
   };
+
+  // ---------- podcast player ----------
+  const fmtTime = (sec) => {
+    sec = Math.max(0, Math.floor(sec || 0));
+    const h = Math.floor(sec / 3600), m = Math.floor((sec % 3600) / 60), s = String(sec % 60).padStart(2, "0");
+    return h ? `${h}:${String(m).padStart(2, "0")}:${s}` : `${m}:${s}`;
+  };
+  const store = {
+    get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch (_) { return null; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (_) {} },
+  };
+  const ICON_PLAY = '<svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.6-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5Z" fill="currentColor"/></svg>';
+  const ICON_PAUSE = '<svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><rect x="6" y="5" width="4.2" height="14" rx="1.2" fill="currentColor"/><rect x="13.8" y="5" width="4.2" height="14" rx="1.2" fill="currentColor"/></svg>';
+  const skipIcon = (n, fwd) => `<svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="${fwd ? "M12 4a8 8 0 1 1-8 8" : "M12 4a8 8 0 1 0 8 8"}" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="${fwd ? "M12 1.5 15 4l-3 2.5" : "M12 1.5 9 4l3 2.5"}" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="12" y="15.6" font-size="7.5" font-weight="700" text-anchor="middle" fill="currentColor" font-family="-apple-system,sans-serif">${n}</text></svg>`;
+  const SPEEDS = [1, 1.25, 1.5, 1.75, 2, 0.75];
 
   // ---------- router ----------
   async function route() {
+    if (cleanup) { try { cleanup(); } catch (_) {} cleanup = null; }
     const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean).map(decodeURIComponent);
     try {
       if (parts.length === 0) await homeView();

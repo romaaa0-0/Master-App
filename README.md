@@ -73,6 +73,26 @@ Defined in `SECTION_TYPES` in `js/app.js`:
 |------------|--------------------------------|--------------------------------|
 | `markdown` | `file` (a `.md` file)          | Formatted notes / summary      |
 | `files`    | `items: [{ name, file }]`      | List of files (PDF, etc.)      |
+| `podcast`  | `audio`, `transcript` (optional) | Audio player + live transcript |
+
+A typical lecture has three sections: **Summary** (`markdown`, `summary.md`),
+**Podcast** (`podcast`) and **Slides** (`files`).
+
+## Making a lecture podcast
+
+Podcasts are a two-host conversation about the lecture, voiced with
+[Kokoro](https://github.com/thewh1teagle/kokoro-onnx) (free, open source, runs
+locally). See `tools/podcast/README.md`.
+
+1. Write `lectures/<id>/podcast-script.json` (hosts + lines of dialogue).
+2. Run `python3 tools/podcast/generate.py content/.../lectures/<id>/podcast-script.json`.
+   It writes `podcast.mp3` and `podcast.json` (timed transcript) next to it.
+3. Add the section:
+   `{ "type": "podcast", "title": "Podcast", "audio": "lectures/<id>/podcast.mp3", "transcript": "lectures/<id>/podcast.json" }`
+
+The player remembers where you stopped, has speed control, works from the
+lock screen, and highlights the transcript line being spoken (tap a line to
+jump to it). Audio streams from the network (not cached offline).
 
 To add a new study tool (flashcards, quiz, …): add one renderer to
 `SECTION_TYPES`, then any lecture can use it by adding a section with that
