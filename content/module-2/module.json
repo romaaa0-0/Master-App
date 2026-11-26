@@ -1,0 +1,24 @@
+{
+  "classes": [
+    {
+      "id": "financial-markets-china",
+      "title": "Financial Markets and Investments in China",
+      "color": "#0a84ff"
+    },
+    {
+      "id": "chinese-economy",
+      "title": "Introduction to Chinese Economy",
+      "color": "#ff453a"
+    },
+    {
+      "id": "financial-accounting",
+      "title": "Financial Accounting",
+      "color": "#30d158"
+    },
+    {
+      "id": "writing-in-english",
+      "title": "Writing in English",
+      "color": "#ff9f0a"
+    }
+  ]
+}

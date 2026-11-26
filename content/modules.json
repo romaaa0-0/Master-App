@@ -1,0 +1,44 @@
+{
+  "program": {
+    "title": "My Master's",
+    "subtitle": "2-year program \u00b7 6 modules"
+  },
+  "modules": [
+    {
+      "id": "module-1",
+      "number": 1,
+      "title": "Module 1",
+      "status": "done"
+    },
+    {
+      "id": "module-2",
+      "number": 2,
+      "title": "Module 2",
+      "status": "current"
+    },
+    {
+      "id": "module-3",
+      "number": 3,
+      "title": "Module 3",
+      "status": "upcoming"
+    },
+    {
+      "id": "module-4",
+      "number": 4,
+      "title": "Module 4",
+      "status": "upcoming"
+    },
+    {
+      "id": "module-5",
+      "number": 5,
+      "title": "Module 5",
+      "status": "upcoming"
+    },
+    {
+      "id": "module-6",
+      "number": 6,
+      "title": "Module 6",
+      "status": "upcoming"
+    }
+  ]
+}
