@@ -2,7 +2,7 @@
 // App files: served from cache, refreshed in the background.
 // Content (lectures): always tries the network first so new lectures show up
 // right away, and falls back to the cached copy when offline.
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL = [
   "./", "index.html", "styles.css", "js/app.js", "js/markdown.js",
   "manifest.webmanifest", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png",
@@ -23,6 +23,9 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET" || new URL(req.url).origin !== location.origin) return;
+  // Audio is streamed with Range requests, which the cache can't answer well
+  // (iOS needs them to play and seek): let the browser handle it directly.
+  if (req.headers.has("range") || /\.(mp3|m4a|aac|wav|ogg)$/i.test(new URL(req.url).pathname)) return;
   const key = new Request(req.url.split("#")[0]);
   const isContent = new URL(req.url).pathname.includes("/content/");
 
