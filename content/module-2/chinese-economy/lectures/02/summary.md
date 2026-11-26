@@ -165,7 +165,7 @@ Land revenue is **endogenous**: ambition drives both land sales and promotion (o
 
 **Problem:** selected regions ≠ average regions.
 
-1. **Experimental sites are positively selected** (richer, better placed), and selection is shaped by **career incentives** of the prefecture party secretary.
+1. **Experimental sites are positively selected**, and selection is shaped by **career incentives** of the prefecture party secretary.
 2. Participating regions **put in more effort** on that reform.
 3. **Roll-out to non-experimental sites is much less successful.**
 
@@ -222,7 +222,7 @@ When officials are evaluated on **measurable targets**, they focus on those and 
 3. How should governments balance growth and other objectives?
 4. Which experiments are most likely to work when scaled nationally? How would you improve the experimentation process?
 
-**Main reference:** Chenggang Xu, *The Fundamental Institutions of China's Reforms and Development* (JEL 2011).
+**Main reference:** Chenggang Xu, *The Fundamental Institutions of China's Reforms and Development* (Journal of Economic Literature, 2011).
 
 ## Group presentation (logistics)
 
