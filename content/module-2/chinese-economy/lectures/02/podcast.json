@@ -1,0 +1,590 @@
+{
+ "title": "Lecture 2: China's Institutions",
+ "hosts": [
+  "Maya",
+  "Leo"
+ ],
+ "duration": 1031.5,
+ "lines": [
+  {
+   "speaker": "Maya",
+   "start": 0.6,
+   "text": "Hey, welcome back. Episode two of Introduction to Chinese Economy. I'm Maya."
+  },
+  {
+   "speaker": "Leo",
+   "start": 6.0,
+   "text": "And I'm Leo. And last time you promised this one would be juicy."
+  },
+  {
+   "speaker": "Maya",
+   "start": 10.26,
+   "text": "I did, and I stand by it. Today is China's institutions. And it starts with a puzzle."
+  },
+  {
+   "speaker": "Leo",
+   "start": 15.65,
+   "text": "Go."
+  },
+  {
+   "speaker": "Maya",
+   "start": 16.53,
+   "text": "So, growth before nineteen seventy eight was about four point four percent a year. After nineteen seventy eight, about nine and a half. And the standard story in economics says growth needs certain things first. Secure property rights, then good market institutions, then growth."
+  },
+  {
+   "speaker": "Leo",
+   "start": 33.54,
+   "text": "Right, the textbook recipe."
+  },
+  {
+   "speaker": "Maya",
+   "start": 35.38,
+   "text": "The textbook recipe. But early reform China didn't really have those. Weak private property protection. Contracts that weren't reliably enforced. Very limited financial markets. And yet it grew like crazy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 49.03,
+   "text": "So partial reforms, rapid growth, and then a big question mark."
+  },
+  {
+   "speaker": "Maya",
+   "start": 53.61,
+   "text": "Exactly. The main question is, how did China create growth incentives without fully adopting Western style market institutions?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 62.04,
+   "text": "And the answer?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 63.31,
+   "text": "The one line answer on the slide is, institutions shape incentives. And China created incentives through decentralization, competition, and experimentation."
+  },
+  {
+   "speaker": "Leo",
+   "start": 73.58,
+   "text": "Okay, unpack that."
+  },
+  {
+   "speaker": "Maya",
+   "start": 74.98,
+   "text": "The core idea comes from the economist Chenggang Xu. He calls it regional decentralized authoritarianism. R D A."
+  },
+  {
+   "speaker": "Leo",
+   "start": 83.15,
+   "text": "That's a mouthful."
+  },
+  {
+   "speaker": "Maya",
+   "start": 84.6,
+   "text": "It is, but it's actually simple. Political centralization plus economic decentralization. The center controls the politics. Who gets appointed, who gets promoted, who gets fired, and the big strategic policies. But local governments are responsible for the economy. Developing their region, allocating resources, implementing policy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 106.77,
+   "text": "So Beijing holds the leash, but the locals do the running."
+  },
+  {
+   "speaker": "Maya",
+   "start": 110.64,
+   "text": "That's a really good way to say it. And there are two reasons for this setup. An information problem and an incentive problem. Local governments simply know more about local resources, local firms, local conditions. And the center needs some way to motivate local officials to actually use that knowledge."
+  },
+  {
+   "speaker": "Leo",
+   "start": 129.05,
+   "text": "And the government has a bunch of layers, right?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 131.74,
+   "text": "Five levels. Central, then province, then prefecture, then county, then township. And most of the economic management happens below the center. Chinese local governments are way more involved in the economy than in most countries. Attracting investment, building infrastructure, picking industries, rolling out reforms."
+  },
+  {
+   "speaker": "Leo",
+   "start": 152.57,
+   "text": "Okay. So where did this setup come from? Did someone design it in nineteen seventy eight?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 158.19,
+   "text": "No, and that's one of the most interesting parts. It goes way back. In imperial China, the Emperor appointed local officials, but those officials had a lot of discretion over local affairs."
+  },
+  {
+   "speaker": "Leo",
+   "start": 170.15,
+   "text": "Because, what, the Emperor couldn't send a text message?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 173.39,
+   "text": "Ha. Pretty much. Communication and transport were slow. The local guy knew what was going on, so you had to let him decide things. Central control of people, local discretion over policy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 185.74,
+   "text": "And there's a paper about provincial capitals that I honestly didn't expect in an economics lecture."
+  },
+  {
+   "speaker": "Maya",
+   "start": 191.9,
+   "text": "Bai and Jia, twenty twenty three. I love this one. The question is, how did the central government choose where to put each provincial capital?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 200.66,
+   "text": "And the answer is math."
+  },
+  {
+   "speaker": "Maya",
+   "start": 202.21,
+   "text": "The answer is basically logistics. A provincial capital does two jobs. It's the administrative center of the province, and it's the relay point between the central government and all the prefectures. Think about taxes. You have to haul tax revenue from each prefecture to the provincial capital, and then send a share of it on to the national capital. Moving stuff is expensive, and the cost grows with distance."
+  },
+  {
+   "speaker": "Leo",
+   "start": 226.72,
+   "text": "So you pick the city that minimizes total hauling."
+  },
+  {
+   "speaker": "Maya",
+   "start": 229.88,
+   "text": "Exactly. They call it hierarchical distance. Distance to all the prefectures, weighted by how much tax each one produces, plus distance to the national capital, weighted by the share you send up. And that share is about thirty percent in the Song and Ming dynasties, and about twenty percent in the Qing and in modern China."
+  },
+  {
+   "speaker": "Leo",
+   "start": 249.93,
+   "text": "And it works?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 251.17,
+   "text": "It predicts the actual capitals really well. The takeaway is that the shape of the Chinese state was built around the problem of governing a huge territory with bad information."
+  },
+  {
+   "speaker": "Leo",
+   "start": 261.74,
+   "text": "Okay, then the communists come in, and they copy the Soviet Union."
+  },
+  {
+   "speaker": "Maya",
+   "start": 266.16,
+   "text": "Right. Early nineteen fifties, a Soviet style planned economy. Central planning, state ownership, resources allocated by administrators. Very centralized."
+  },
+  {
+   "speaker": "Leo",
+   "start": 276.88,
+   "text": "And that has the usual problems."
+  },
+  {
+   "speaker": "Maya",
+   "start": 279.22,
+   "text": "Weak incentives, slow adjustment, no room for experiments. And here the lecture brings in Hayek."
+  },
+  {
+   "speaker": "Leo",
+   "start": 285.36,
+   "text": "The famous critique."
+  },
+  {
+   "speaker": "Maya",
+   "start": 286.96,
+   "text": "Yeah. Hayek's point is that economic knowledge is scattered. It's in millions of heads. Some of it is tacit, you can't even write it down. And it keeps changing. So no central planner can ever collect it all. In a market, prices do that job. A price rises, and suddenly everyone knows something is scarce without anyone writing a report."
+  },
+  {
+   "speaker": "Leo",
+   "start": 307.55,
+   "text": "Okay, but then the Great Leap Forward."
+  },
+  {
+   "speaker": "Maya",
+   "start": 309.88,
+   "text": "Right, and this is the twist. During the Great Leap Forward, from nineteen fifty eight to nineteen sixty two, there was a huge, kind of accidental, decentralization. Central ministries handed control of tons of enterprises down to local governments."
+  },
+  {
+   "speaker": "Leo",
+   "start": 325.57,
+   "text": "Accidental how?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 327.11,
+   "text": "It wasn't a plan to build a market economy. But the result was lots of fairly self contained regional economies, where local governments ran factories, assigned labor, decided investment. And those capabilities survived."
+  },
+  {
+   "speaker": "Leo",
+   "start": 341.39,
+   "text": "So in nineteen seventy eight..."
+  },
+  {
+   "speaker": "Maya",
+   "start": 343.61,
+   "text": "In nineteen seventy eight China was still a planned economy, but local governments already controlled a lot of real economic resources. The line I'd remember is, reform didn't create local governments as economic actors. It empowered existing ones."
+  },
+  {
+   "speaker": "Leo",
+   "start": 360.33,
+   "text": "Oh, that's a good line."
+  },
+  {
+   "speaker": "Maya",
+   "start": 361.95,
+   "text": "And then why gradual? Two kinds of uncertainty. Political uncertainty, people resisting reform, ideological fights. And economic uncertainty. Nobody knew what would happen, nobody had market experience. So the solution was, experiment first, reform later. Keep the old system, add new experiments next to it, and scale up whatever works."
+  },
+  {
+   "speaker": "Leo",
+   "start": 383.65,
+   "text": "Okay, so we have the structure. How does it actually produce growth?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 387.97,
+   "text": "Three mechanisms. Regional competition, policy experimentation, and local governments acting like entrepreneurs. Let's start with competition."
+  },
+  {
+   "speaker": "Leo",
+   "start": 397.67,
+   "text": "The tournament."
+  },
+  {
+   "speaker": "Maya",
+   "start": 398.8,
+   "text": "The tournament. Local officials aren't rewarded with profits. They're rewarded with promotion. And their performance is judged relative to other regions. So, roughly, your chance of promotion depends on your growth minus everyone else's growth."
+  },
+  {
+   "speaker": "Leo",
+   "start": 414.34,
+   "text": "It's like a sales team where only the top performer gets the corner office."
+  },
+  {
+   "speaker": "Maya",
+   "start": 419.03,
+   "text": "Exactly that. Better growth, higher promotion chances, more effort."
+  },
+  {
+   "speaker": "Leo",
+   "start": 423.26,
+   "text": "Why GDP though? Why not something else?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 426.48,
+   "text": "After nineteen seventy eight the national line was, take economic development as the central task. Leaders had visited Europe and the US and saw how far behind Chinese industry was. And GDP growth is easy to observe, easy to measure, and easy to compare across regions."
+  },
+  {
+   "speaker": "Leo",
+   "start": 444.66,
+   "text": "Even if what you really want to reward is effort and ability."
+  },
+  {
+   "speaker": "Maya",
+   "start": 448.46,
+   "text": "Right, but you can't see those directly. So GDP becomes the signal."
+  },
+  {
+   "speaker": "Leo",
+   "start": 453.02,
+   "text": "And why does this tournament work so well in China specifically?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 456.87,
+   "text": "Four reasons. One, the center has strong personnel control. Higher levels appoint, promote, and dismiss, all the way down. The slide calls it the nested cadre system. Two, officials really care about promotion. Three, regions look alike. Most have farms, factories, services, so comparing them is fair. And four, local governments control important resources, so they can actually move the needle."
+  },
+  {
+   "speaker": "Leo",
+   "start": 481.48,
+   "text": "And it worked."
+  },
+  {
+   "speaker": "Maya",
+   "start": 482.55,
+   "text": "It did. Local governments went out and attracted investment, built roads, supported firms, tried reforms. They became development agents. And the data show better economic performance really is linked to promotion."
+  },
+  {
+   "speaker": "Leo",
+   "start": 496.34,
+   "text": "But I'm guessing there's a catch."
+  },
+  {
+   "speaker": "Maya",
+   "start": 498.27,
+   "text": "There's always a catch. The professor asks, what if local governments get money that has nothing to do with economic performance?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 505.67,
+   "text": "Land."
+  },
+  {
+   "speaker": "Maya",
+   "start": 506.6,
+   "text": "Land. This is Chen and Kung, twenty sixteen. In nineteen ninety eight there was a land reform. All non farm land is owned by the state. Only local governments can convert farmland into industrial or commercial land. Private users get seventy year use rights. And local governments get to keep all the money from land sales."
+  },
+  {
+   "speaker": "Leo",
+   "start": 527.35,
+   "text": "That's a lot of money."
+  },
+  {
+   "speaker": "Maya",
+   "start": 528.77,
+   "text": "An enormous amount. From nineteen ninety eight, county governments started relying on land income in a big way. And the paper's idea is a political resource curse."
+  },
+  {
+   "speaker": "Leo",
+   "start": 538.75,
+   "text": "Like the oil curse, but for land?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 540.92,
+   "text": "Exactly. With the oil curse, governments that get easy oil money depend less on their citizens. Here, officials with easy land money depend less on growing the economy. So land revenue weakens the link between growth and promotion."
+  },
+  {
+   "speaker": "Leo",
+   "start": 556.44,
+   "text": "How do they test it?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 558.07,
+   "text": "They look at county party secretaries from nineteen ninety nine to two thousand eight. About seventeen and a half thousand county years, more than four thousand three hundred officials. And they code what happens to each one. Promoted is three, moved sideways or stayed is two, retired is one, and terminated, meaning corruption, resignation, or death, is zero."
+  },
+  {
+   "speaker": "Leo",
+   "start": 579.2,
+   "text": "And they regress that on land revenue and growth."
+  },
+  {
+   "speaker": "Maya",
+   "start": 582.25,
+   "text": "And the interaction of the two, which is the key part. The question is whether growth matters less for promotion when land revenue is high."
+  },
+  {
+   "speaker": "Leo",
+   "start": 590.42,
+   "text": "But there's an obvious problem. An ambitious official probably sells more land and also gets promoted more."
+  },
+  {
+   "speaker": "Maya",
+   "start": 597.8,
+   "text": "Yes, endogeneity. And there's reverse causality too. Promotion decisions are basically known a year ahead, which could change how much land you sell in your last year. Or an official who knows they won't be promoted might just sell everything."
+  },
+  {
+   "speaker": "Leo",
+   "start": 612.88,
+   "text": "So instruments."
+  },
+  {
+   "speaker": "Maya",
+   "start": 614.2,
+   "text": "Two clever ones. The first uses geography. Some counties have lots of land that's too steep to build on. In those places land supply is tight, so when national interest rates fall, land prices jump more. So they interact steepness with interest rate changes. The second interacts that same steepness with house prices in the provincial capital, as a demand shock from the nearby big city."
+  },
+  {
+   "speaker": "Leo",
+   "start": 638.24,
+   "text": "And the result?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 639.42,
+   "text": "Land revenue reduces the importance of GDP growth in promotion. And then they look at where the money goes. First, signaling. Officials spend land money on visible image projects, city construction and land development, timed right before they're evaluated. Short terms, under five years, make them pretty short sighted."
+  },
+  {
+   "speaker": "Leo",
+   "start": 660.34,
+   "text": "Shiny buildings right before the review."
+  },
+  {
+   "speaker": "Maya",
+   "start": 662.91,
+   "text": "Basically. Second, corruption. Land revenue goes with higher administrative spending and a bigger bureaucracy. And third, who benefits most? Officials who are politically connected to their bosses, same birthplace or used to work in the prefecture government. And officials over forty four, who are unlikely to be promoted anyway."
+  },
+  {
+   "speaker": "Leo",
+   "start": 683.49,
+   "text": "So the people with the least incentive to grow the economy benefit most from land money."
+  },
+  {
+   "speaker": "Maya",
+   "start": 689.33,
+   "text": "Exactly. Adverse selection. Okay, second mechanism. Experimentation."
+  },
+  {
+   "speaker": "Leo",
+   "start": 694.63,
+   "text": "Crossing the river by feeling the stones."
+  },
+  {
+   "speaker": "Maya",
+   "start": 697.05,
+   "text": "That's the one. Experiment, evaluate, expand. And why let local governments run the experiments? They have local information, that's Hayek again. They have incentives to solve problems, thanks to the promotion system. If an experiment fails, the damage stays local. And if it works, it can spread."
+  },
+  {
+   "speaker": "Leo",
+   "start": 716.15,
+   "text": "And the classic example is Xiaogang village."
+  },
+  {
+   "speaker": "Maya",
+   "start": 719.35,
+   "text": "Yes. Before reform, farming was collective, so effort didn't really pay off for anyone personally. In nineteen seventy eight, farmers in Xiaogang secretly split the land among households and signed a contract. Secretly, because it was risky."
+  },
+  {
+   "speaker": "Leo",
+   "start": 734.69,
+   "text": "And productivity exploded."
+  },
+  {
+   "speaker": "Maya",
+   "start": 736.77,
+   "text": "It did. And the central government later legalized it and spread it nationwide. That's the household responsibility system. The adoption chart shows counties switching over really fast, and agricultural productivity jumping."
+  },
+  {
+   "speaker": "Leo",
+   "start": 750.81,
+   "text": "And the second example is Special Economic Zones."
+  },
+  {
+   "speaker": "Maya",
+   "start": 754.34,
+   "text": "Right. Foreign investment was politically touchy. So instead of opening the whole country, China opened a few experimental zones. Shenzhen being the famous one. They offered lower taxes and tax holidays, duty free imported inputs, permission for joint ventures, land use rights, flexible labor. And when it worked, it spread to other cities."
+  },
+  {
+   "speaker": "Leo",
+   "start": 776.21,
+   "text": "Okay, but this all sounds a little too good. Experiment, it works, scale it up."
+  },
+  {
+   "speaker": "Maya",
+   "start": 781.03,
+   "text": "And that's exactly the question the lecture asks. Are experiments actually informative? This is Wang and Yang, twenty twenty one. The problem is that the regions picked for experiments aren't average regions."
+  },
+  {
+   "speaker": "Leo",
+   "start": 794.32,
+   "text": "Selection bias."
+  },
+  {
+   "speaker": "Maya",
+   "start": 795.8,
+   "text": "Selection bias. They find three things. First, experimental sites are positively selected. They're better off to begin with, and the choice is shaped by the career incentives of the local party secretary. Second, those regions put extra effort into the reform, because they're being watched. And third, when the policy is rolled out to everyone else, it works much less well."
+  },
+  {
+   "speaker": "Leo",
+   "start": 818.21,
+   "text": "Is there an example?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 819.87,
+   "text": "Local fiscal empowerment. Provinces were allowed to skip the prefecture level and manage counties directly, which gave counties more fiscal power. More than eleven hundred counties were picked between two thousand three and twenty thirteen. And the early experimental counties did better than the ones that got it later. So if you judged the policy from the pilots, you'd overestimate it."
+  },
+  {
+   "speaker": "Leo",
+   "start": 842.15,
+   "text": "It's like testing a diet on people who are already super motivated."
+  },
+  {
+   "speaker": "Maya",
+   "start": 846.36,
+   "text": "Perfect analogy. And the professor adds one more thing. The pilot regions might be winning partly by pulling migrants and investment away from other regions. So the national gain could be smaller still."
+  },
+  {
+   "speaker": "Leo",
+   "start": 858.88,
+   "text": "Okay, so we've got competition, we've got experiments. What breaks?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 863.59,
+   "text": "The last part is about limits. The big idea is the multi task problem. If you judge people on one measurable target, they focus on that target and neglect everything else."
+  },
+  {
+   "speaker": "Leo",
+   "start": 874.59,
+   "text": "Teaching to the test."
+  },
+  {
+   "speaker": "Maya",
+   "start": 876.14,
+   "text": "Exactly, teaching to the test. Governments care about growth, but also the environment, social welfare, public services. Early on, everyone agreed growth came first, so a GDP target mobilized everyone. But after decades of fast growth, you get pollution, inequality, wasteful investment, fiscal risks. And the old incentive system doesn't fit anymore."
+  },
+  {
+   "speaker": "Leo",
+   "start": 898.94,
+   "text": "And then the pollution paper."
+  },
+  {
+   "speaker": "Maya",
+   "start": 900.75,
+   "text": "He and coauthors, twenty twenty. So the center started adding environmental targets. For example, the tenth five year plan, two thousand one to two thousand five, required national water pollution to fall by ten percent, measured as C O D, chemical oxygen demand. Those targets were passed down to provinces, then prefectures and counties, and built into promotion decisions."
+  },
+  {
+   "speaker": "Leo",
+   "start": 924.47,
+   "text": "Okay, sounds like a fix."
+  },
+  {
+   "speaker": "Maya",
+   "start": 926.38,
+   "text": "Here's the catch. Water quality is measured at monitoring stations along rivers. And a station only picks up pollution from upstream."
+  },
+  {
+   "speaker": "Leo",
+   "start": 935.09,
+   "text": "Oh no. So you only clean up upstream of the station."
+  },
+  {
+   "speaker": "Maya",
+   "start": 938.3,
+   "text": "Exactly. Officials cracked down hard on firms just upstream of a monitoring station, and went easy on firms just downstream. The authors compare firms right on either side of a station, which is a regression discontinuity design. And they find upstream firms in polluting industries lose productivity. Their T F P drops. Non polluting industries, no effect."
+  },
+  {
+   "speaker": "Leo",
+   "start": 962.1,
+   "text": "So the measured pollution falls, but the river downstream doesn't care."
+  },
+  {
+   "speaker": "Maya",
+   "start": 966.58,
+   "text": "Right. The slide calls it strategic compliance. You hit the target, not necessarily the goal."
+  },
+  {
+   "speaker": "Leo",
+   "start": 972.53,
+   "text": "Okay. Three things to remember from today?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 975.3,
+   "text": "One. China's core institution is regional decentralized authoritarianism. Political centralization plus economic decentralization, with roots going back to imperial China and an accidental push from the Great Leap Forward. Two. It generated growth through a promotion tournament among local officials and through local policy experiments, like Xiaogang and the Special Economic Zones. Three. The same institutions created new problems. Land finance weakened growth incentives, pilot experiments were biased by selection, and pollution targets led to gaming."
+  },
+  {
+   "speaker": "Leo",
+   "start": 1012.75,
+   "text": "And one practical thing."
+  },
+  {
+   "speaker": "Maya",
+   "start": 1014.55,
+   "text": "Oh, right. Group presentations are in the last three classes, groups of about six, twenty minutes each. And send your group's top three paper choices to the T A by December first."
+  },
+  {
+   "speaker": "Leo",
+   "start": 1025.97,
+   "text": "Don't forget that one."
+  },
+  {
+   "speaker": "Maya",
+   "start": 1027.4,
+   "text": "Don't forget that one. See you next time."
+  },
+  {
+   "speaker": "Leo",
+   "start": 1029.71,
+   "text": "See you."
+  }
+ ]
+}

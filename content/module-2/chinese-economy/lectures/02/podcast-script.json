@@ -1,0 +1,490 @@
+{
+ "title": "Lecture 2: China's Institutions",
+ "hosts": {
+  "A": {
+   "name": "Maya",
+   "voice": "af_heart"
+  },
+  "B": {
+   "name": "Leo",
+   "voice": "am_michael"
+  }
+ },
+ "say": {
+  "Chenggang": "Chung-gahng",
+  "Hayek": "High-ek",
+  "Houhai": "Hoe-high",
+  "chaebol": "jay-bol",
+  "Qing": "Ching",
+  "Jia": "Jyah",
+  "Xu": "Shoo",
+  "Maddison": "Madison",
+  "Shenzhen": "Shen-jen"
+ },
+ "lines": [
+  {
+   "s": "A",
+   "t": "Hey, welcome back. Episode two of Introduction to Chinese Economy. I'm Maya."
+  },
+  {
+   "s": "B",
+   "t": "And I'm Leo. And last time you promised this one would be juicy."
+  },
+  {
+   "s": "A",
+   "t": "I did, and I stand by it. Today is China's institutions. And it starts with a puzzle."
+  },
+  {
+   "s": "B",
+   "t": "Go."
+  },
+  {
+   "s": "A",
+   "t": "So, growth before nineteen seventy eight was about four point four percent a year. After nineteen seventy eight, about nine and a half. And the standard story in economics says growth needs certain things first. Secure property rights, then good market institutions, then growth."
+  },
+  {
+   "s": "B",
+   "t": "Right, the textbook recipe."
+  },
+  {
+   "s": "A",
+   "t": "The textbook recipe. But early reform China didn't really have those. Weak private property protection. Contracts that weren't reliably enforced. Very limited financial markets. And yet it grew like crazy."
+  },
+  {
+   "s": "B",
+   "t": "So partial reforms, rapid growth, and then a big question mark."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. The main question is, how did China create growth incentives without fully adopting Western style market institutions?"
+  },
+  {
+   "s": "B",
+   "t": "And the answer?"
+  },
+  {
+   "s": "A",
+   "t": "The one line answer on the slide is, institutions shape incentives. And China created incentives through decentralization, competition, and experimentation."
+  },
+  {
+   "s": "B",
+   "t": "Okay, unpack that."
+  },
+  {
+   "s": "A",
+   "t": "The core idea comes from the economist Chenggang Xu. He calls it regional decentralized authoritarianism. R D A."
+  },
+  {
+   "s": "B",
+   "t": "That's a mouthful."
+  },
+  {
+   "s": "A",
+   "t": "It is, but it's actually simple. Political centralization plus economic decentralization. The center controls the politics. Who gets appointed, who gets promoted, who gets fired, and the big strategic policies. But local governments are responsible for the economy. Developing their region, allocating resources, implementing policy."
+  },
+  {
+   "s": "B",
+   "t": "So Beijing holds the leash, but the locals do the running."
+  },
+  {
+   "s": "A",
+   "t": "That's a really good way to say it. And there are two reasons for this setup. An information problem and an incentive problem. Local governments simply know more about local resources, local firms, local conditions. And the center needs some way to motivate local officials to actually use that knowledge."
+  },
+  {
+   "s": "B",
+   "t": "And the government has a bunch of layers, right?"
+  },
+  {
+   "s": "A",
+   "t": "Five levels. Central, then province, then prefecture, then county, then township. And most of the economic management happens below the center. Chinese local governments are way more involved in the economy than in most countries. Attracting investment, building infrastructure, picking industries, rolling out reforms."
+  },
+  {
+   "s": "B",
+   "t": "Okay. So where did this setup come from? Did someone design it in nineteen seventy eight?"
+  },
+  {
+   "s": "A",
+   "t": "No, and that's one of the most interesting parts. It goes way back. In imperial China, the Emperor appointed local officials, but those officials had a lot of discretion over local affairs."
+  },
+  {
+   "s": "B",
+   "t": "Because, what, the Emperor couldn't send a text message?"
+  },
+  {
+   "s": "A",
+   "t": "Ha. Pretty much. Communication and transport were slow. The local guy knew what was going on, so you had to let him decide things. Central control of people, local discretion over policy."
+  },
+  {
+   "s": "B",
+   "t": "And there's a paper about provincial capitals that I honestly didn't expect in an economics lecture."
+  },
+  {
+   "s": "A",
+   "t": "Bai and Jia, twenty twenty three. I love this one. The question is, how did the central government choose where to put each provincial capital?"
+  },
+  {
+   "s": "B",
+   "t": "And the answer is math."
+  },
+  {
+   "s": "A",
+   "t": "The answer is basically logistics. A provincial capital does two jobs. It's the administrative center of the province, and it's the relay point between the central government and all the prefectures. Think about taxes. You have to haul tax revenue from each prefecture to the provincial capital, and then send a share of it on to the national capital. Moving stuff is expensive, and the cost grows with distance."
+  },
+  {
+   "s": "B",
+   "t": "So you pick the city that minimizes total hauling."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. They call it hierarchical distance. Distance to all the prefectures, weighted by how much tax each one produces, plus distance to the national capital, weighted by the share you send up. And that share is about thirty percent in the Song and Ming dynasties, and about twenty percent in the Qing and in modern China."
+  },
+  {
+   "s": "B",
+   "t": "And it works?"
+  },
+  {
+   "s": "A",
+   "t": "It predicts the actual capitals really well. The takeaway is that the shape of the Chinese state was built around the problem of governing a huge territory with bad information."
+  },
+  {
+   "s": "B",
+   "t": "Okay, then the communists come in, and they copy the Soviet Union."
+  },
+  {
+   "s": "A",
+   "t": "Right. Early nineteen fifties, a Soviet style planned economy. Central planning, state ownership, resources allocated by administrators. Very centralized."
+  },
+  {
+   "s": "B",
+   "t": "And that has the usual problems."
+  },
+  {
+   "s": "A",
+   "t": "Weak incentives, slow adjustment, no room for experiments. And here the lecture brings in Hayek."
+  },
+  {
+   "s": "B",
+   "t": "The famous critique."
+  },
+  {
+   "s": "A",
+   "t": "Yeah. Hayek's point is that economic knowledge is scattered. It's in millions of heads. Some of it is tacit, you can't even write it down. And it keeps changing. So no central planner can ever collect it all. In a market, prices do that job. A price rises, and suddenly everyone knows something is scarce without anyone writing a report."
+  },
+  {
+   "s": "B",
+   "t": "Okay, but then the Great Leap Forward."
+  },
+  {
+   "s": "A",
+   "t": "Right, and this is the twist. During the Great Leap Forward, from nineteen fifty eight to nineteen sixty two, there was a huge, kind of accidental, decentralization. Central ministries handed control of tons of enterprises down to local governments."
+  },
+  {
+   "s": "B",
+   "t": "Accidental how?"
+  },
+  {
+   "s": "A",
+   "t": "It wasn't a plan to build a market economy. But the result was lots of fairly self contained regional economies, where local governments ran factories, assigned labor, decided investment. And those capabilities survived."
+  },
+  {
+   "s": "B",
+   "t": "So in nineteen seventy eight..."
+  },
+  {
+   "s": "A",
+   "t": "In nineteen seventy eight China was still a planned economy, but local governments already controlled a lot of real economic resources. The line I'd remember is, reform didn't create local governments as economic actors. It empowered existing ones."
+  },
+  {
+   "s": "B",
+   "t": "Oh, that's a good line."
+  },
+  {
+   "s": "A",
+   "t": "And then why gradual? Two kinds of uncertainty. Political uncertainty, people resisting reform, ideological fights. And economic uncertainty. Nobody knew what would happen, nobody had market experience. So the solution was, experiment first, reform later. Keep the old system, add new experiments next to it, and scale up whatever works."
+  },
+  {
+   "s": "B",
+   "t": "Okay, so we have the structure. How does it actually produce growth?"
+  },
+  {
+   "s": "A",
+   "t": "Three mechanisms. Regional competition, policy experimentation, and local governments acting like entrepreneurs. Let's start with competition."
+  },
+  {
+   "s": "B",
+   "t": "The tournament."
+  },
+  {
+   "s": "A",
+   "t": "The tournament. Local officials aren't rewarded with profits. They're rewarded with promotion. And their performance is judged relative to other regions. So, roughly, your chance of promotion depends on your growth minus everyone else's growth."
+  },
+  {
+   "s": "B",
+   "t": "It's like a sales team where only the top performer gets the corner office."
+  },
+  {
+   "s": "A",
+   "t": "Exactly that. Better growth, higher promotion chances, more effort."
+  },
+  {
+   "s": "B",
+   "t": "Why GDP though? Why not something else?"
+  },
+  {
+   "s": "A",
+   "t": "After nineteen seventy eight the national line was, take economic development as the central task. Leaders had visited Europe and the US and saw how far behind Chinese industry was. And GDP growth is easy to observe, easy to measure, and easy to compare across regions."
+  },
+  {
+   "s": "B",
+   "t": "Even if what you really want to reward is effort and ability."
+  },
+  {
+   "s": "A",
+   "t": "Right, but you can't see those directly. So GDP becomes the signal."
+  },
+  {
+   "s": "B",
+   "t": "And why does this tournament work so well in China specifically?"
+  },
+  {
+   "s": "A",
+   "t": "Four reasons. One, the center has strong personnel control. Higher levels appoint, promote, and dismiss, all the way down. The slide calls it the nested cadre system. Two, officials really care about promotion. Three, regions look alike. Most have farms, factories, services, so comparing them is fair. And four, local governments control important resources, so they can actually move the needle."
+  },
+  {
+   "s": "B",
+   "t": "And it worked."
+  },
+  {
+   "s": "A",
+   "t": "It did. Local governments went out and attracted investment, built roads, supported firms, tried reforms. They became development agents. And the data show better economic performance really is linked to promotion."
+  },
+  {
+   "s": "B",
+   "t": "But I'm guessing there's a catch."
+  },
+  {
+   "s": "A",
+   "t": "There's always a catch. The professor asks, what if local governments get money that has nothing to do with economic performance?"
+  },
+  {
+   "s": "B",
+   "t": "Land."
+  },
+  {
+   "s": "A",
+   "t": "Land. This is Chen and Kung, twenty sixteen. In nineteen ninety eight there was a land reform. All non farm land is owned by the state. Only local governments can convert farmland into industrial or commercial land. Private users get seventy year use rights. And local governments get to keep all the money from land sales."
+  },
+  {
+   "s": "B",
+   "t": "That's a lot of money."
+  },
+  {
+   "s": "A",
+   "t": "An enormous amount. From nineteen ninety eight, county governments started relying on land income in a big way. And the paper's idea is a political resource curse."
+  },
+  {
+   "s": "B",
+   "t": "Like the oil curse, but for land?"
+  },
+  {
+   "s": "A",
+   "t": "Exactly. With the oil curse, governments that get easy oil money depend less on their citizens. Here, officials with easy land money depend less on growing the economy. So land revenue weakens the link between growth and promotion."
+  },
+  {
+   "s": "B",
+   "t": "How do they test it?"
+  },
+  {
+   "s": "A",
+   "t": "They look at county party secretaries from nineteen ninety nine to two thousand eight. About seventeen and a half thousand county years, more than four thousand three hundred officials. And they code what happens to each one. Promoted is three, moved sideways or stayed is two, retired is one, and terminated, meaning corruption, resignation, or death, is zero."
+  },
+  {
+   "s": "B",
+   "t": "And they regress that on land revenue and growth."
+  },
+  {
+   "s": "A",
+   "t": "And the interaction of the two, which is the key part. The question is whether growth matters less for promotion when land revenue is high."
+  },
+  {
+   "s": "B",
+   "t": "But there's an obvious problem. An ambitious official probably sells more land and also gets promoted more."
+  },
+  {
+   "s": "A",
+   "t": "Yes, endogeneity. And there's reverse causality too. Promotion decisions are basically known a year ahead, which could change how much land you sell in your last year. Or an official who knows they won't be promoted might just sell everything."
+  },
+  {
+   "s": "B",
+   "t": "So instruments."
+  },
+  {
+   "s": "A",
+   "t": "Two clever ones. The first uses geography. Some counties have lots of land that's too steep to build on. In those places land supply is tight, so when national interest rates fall, land prices jump more. So they interact steepness with interest rate changes. The second interacts that same steepness with house prices in the provincial capital, as a demand shock from the nearby big city."
+  },
+  {
+   "s": "B",
+   "t": "And the result?"
+  },
+  {
+   "s": "A",
+   "t": "Land revenue reduces the importance of GDP growth in promotion. And then they look at where the money goes. First, signaling. Officials spend land money on visible image projects, city construction and land development, timed right before they're evaluated. Short terms, under five years, make them pretty short sighted."
+  },
+  {
+   "s": "B",
+   "t": "Shiny buildings right before the review."
+  },
+  {
+   "s": "A",
+   "t": "Basically. Second, corruption. Land revenue goes with higher administrative spending and a bigger bureaucracy. And third, who benefits most? Officials who are politically connected to their bosses, same birthplace or used to work in the prefecture government. And officials over forty four, who are unlikely to be promoted anyway."
+  },
+  {
+   "s": "B",
+   "t": "So the people with the least incentive to grow the economy benefit most from land money."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Adverse selection. Okay, second mechanism. Experimentation."
+  },
+  {
+   "s": "B",
+   "t": "Crossing the river by feeling the stones."
+  },
+  {
+   "s": "A",
+   "t": "That's the one. Experiment, evaluate, expand. And why let local governments run the experiments? They have local information, that's Hayek again. They have incentives to solve problems, thanks to the promotion system. If an experiment fails, the damage stays local. And if it works, it can spread."
+  },
+  {
+   "s": "B",
+   "t": "And the classic example is Xiaogang village."
+  },
+  {
+   "s": "A",
+   "t": "Yes. Before reform, farming was collective, so effort didn't really pay off for anyone personally. In nineteen seventy eight, farmers in Xiaogang secretly split the land among households and signed a contract. Secretly, because it was risky."
+  },
+  {
+   "s": "B",
+   "t": "And productivity exploded."
+  },
+  {
+   "s": "A",
+   "t": "It did. And the central government later legalized it and spread it nationwide. That's the household responsibility system. The adoption chart shows counties switching over really fast, and agricultural productivity jumping."
+  },
+  {
+   "s": "B",
+   "t": "And the second example is Special Economic Zones."
+  },
+  {
+   "s": "A",
+   "t": "Right. Foreign investment was politically touchy. So instead of opening the whole country, China opened a few experimental zones. Shenzhen being the famous one. They offered lower taxes and tax holidays, duty free imported inputs, permission for joint ventures, land use rights, flexible labor. And when it worked, it spread to other cities."
+  },
+  {
+   "s": "B",
+   "t": "Okay, but this all sounds a little too good. Experiment, it works, scale it up."
+  },
+  {
+   "s": "A",
+   "t": "And that's exactly the question the lecture asks. Are experiments actually informative? This is Wang and Yang, twenty twenty one. The problem is that the regions picked for experiments aren't average regions."
+  },
+  {
+   "s": "B",
+   "t": "Selection bias."
+  },
+  {
+   "s": "A",
+   "t": "Selection bias. They find three things. First, experimental sites are positively selected. They're better off to begin with, and the choice is shaped by the career incentives of the local party secretary. Second, those regions put extra effort into the reform, because they're being watched. And third, when the policy is rolled out to everyone else, it works much less well."
+  },
+  {
+   "s": "B",
+   "t": "Is there an example?"
+  },
+  {
+   "s": "A",
+   "t": "Local fiscal empowerment. Provinces were allowed to skip the prefecture level and manage counties directly, which gave counties more fiscal power. More than eleven hundred counties were picked between two thousand three and twenty thirteen. And the early experimental counties did better than the ones that got it later. So if you judged the policy from the pilots, you'd overestimate it."
+  },
+  {
+   "s": "B",
+   "t": "It's like testing a diet on people who are already super motivated."
+  },
+  {
+   "s": "A",
+   "t": "Perfect analogy. And the professor adds one more thing. The pilot regions might be winning partly by pulling migrants and investment away from other regions. So the national gain could be smaller still."
+  },
+  {
+   "s": "B",
+   "t": "Okay, so we've got competition, we've got experiments. What breaks?"
+  },
+  {
+   "s": "A",
+   "t": "The last part is about limits. The big idea is the multi task problem. If you judge people on one measurable target, they focus on that target and neglect everything else."
+  },
+  {
+   "s": "B",
+   "t": "Teaching to the test."
+  },
+  {
+   "s": "A",
+   "t": "Exactly, teaching to the test. Governments care about growth, but also the environment, social welfare, public services. Early on, everyone agreed growth came first, so a GDP target mobilized everyone. But after decades of fast growth, you get pollution, inequality, wasteful investment, fiscal risks. And the old incentive system doesn't fit anymore."
+  },
+  {
+   "s": "B",
+   "t": "And then the pollution paper."
+  },
+  {
+   "s": "A",
+   "t": "He and coauthors, twenty twenty. So the center started adding environmental targets. For example, the tenth five year plan, two thousand one to two thousand five, required national water pollution to fall by ten percent, measured as C O D, chemical oxygen demand. Those targets were passed down to provinces, then prefectures and counties, and built into promotion decisions."
+  },
+  {
+   "s": "B",
+   "t": "Okay, sounds like a fix."
+  },
+  {
+   "s": "A",
+   "t": "Here's the catch. Water quality is measured at monitoring stations along rivers. And a station only picks up pollution from upstream."
+  },
+  {
+   "s": "B",
+   "t": "Oh no. So you only clean up upstream of the station."
+  },
+  {
+   "s": "A",
+   "t": "Exactly. Officials cracked down hard on firms just upstream of a monitoring station, and went easy on firms just downstream. The authors compare firms right on either side of a station, which is a regression discontinuity design. And they find upstream firms in polluting industries lose productivity. Their T F P drops. Non polluting industries, no effect."
+  },
+  {
+   "s": "B",
+   "t": "So the measured pollution falls, but the river downstream doesn't care."
+  },
+  {
+   "s": "A",
+   "t": "Right. The slide calls it strategic compliance. You hit the target, not necessarily the goal."
+  },
+  {
+   "s": "B",
+   "t": "Okay. Three things to remember from today?"
+  },
+  {
+   "s": "A",
+   "t": "One. China's core institution is regional decentralized authoritarianism. Political centralization plus economic decentralization, with roots going back to imperial China and an accidental push from the Great Leap Forward. Two. It generated growth through a promotion tournament among local officials and through local policy experiments, like Xiaogang and the Special Economic Zones. Three. The same institutions created new problems. Land finance weakened growth incentives, pilot experiments were biased by selection, and pollution targets led to gaming."
+  },
+  {
+   "s": "B",
+   "t": "And one practical thing."
+  },
+  {
+   "s": "A",
+   "t": "Oh, right. Group presentations are in the last three classes, groups of about six, twenty minutes each. And send your group's top three paper choices to the T A by December first."
+  },
+  {
+   "s": "B",
+   "t": "Don't forget that one."
+  },
+  {
+   "s": "A",
+   "t": "Don't forget that one. See you next time."
+  },
+  {
+   "s": "B",
+   "t": "See you."
+  }
+ ]
+}

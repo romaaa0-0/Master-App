@@ -1,3 +1,28 @@
 {
-  "lectures": []
+  "lectures": [
+    {
+      "id": "01",
+      "title": "Lecture 1: Introduction to Chinese Economy",
+      "date": "2026-11-16",
+      "description": "The growth miracle and what explains it",
+      "sections": [
+        { "type": "markdown", "title": "Summary", "file": "lectures/01/summary.md" },
+        { "type": "podcast", "title": "Podcast", "audio": "lectures/01/podcast.mp3", "transcript": "lectures/01/podcast.json" },
+        { "type": "files", "title": "Slides", "items": [
+          { "name": "Lecture slides (PDF)", "file": "lectures/01/slides.pdf" }
+        ]}
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Lecture 2: China's Institutions",
+      "date": "2026-11-23",
+      "description": "Decentralization, competition and experiments",
+      "sections": [
+        { "type": "markdown", "title": "Summary", "file": "lectures/02/summary.md" },
+        { "type": "podcast", "title": "Podcast", "audio": "lectures/02/podcast.mp3", "transcript": "lectures/02/podcast.json" },
+        { "type": "files", "title": "Slides", "items": [], "empty": "Slides PDF not added yet. Only the text of this lecture was provided." }
+      ]
+    }
+  ]
 }

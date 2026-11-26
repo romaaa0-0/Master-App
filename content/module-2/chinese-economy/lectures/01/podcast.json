@@ -1,0 +1,540 @@
+{
+ "title": "Lecture 1: Introduction to Chinese Economy",
+ "hosts": [
+  "Maya",
+  "Leo"
+ ],
+ "duration": 889.8,
+ "lines": [
+  {
+   "speaker": "Maya",
+   "start": 0.6,
+   "text": "Hey, welcome back. New class today. This is the first episode for Introduction to Chinese Economy. I'm Maya."
+  },
+  {
+   "speaker": "Leo",
+   "start": 8.05,
+   "text": "And I'm Leo. And I have to say, after a whole course of central banks and regulators, it's kind of nice to zoom out."
+  },
+  {
+   "speaker": "Maya",
+   "start": 15.79,
+   "text": "Right. This one is the big picture. And the professor opens with one question that the whole course hangs on."
+  },
+  {
+   "speaker": "Leo",
+   "start": 22.32,
+   "text": "Which is?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 23.46,
+   "text": "What explains China's remarkable economic growth?"
+  },
+  {
+   "speaker": "Leo",
+   "start": 26.84,
+   "text": "Okay, so not a small question."
+  },
+  {
+   "speaker": "Maya",
+   "start": 28.96,
+   "text": "Not a small question. Think about it. In nineteen seventy eight, China was one of the poorest economies in the world. Today it's the second largest. It's the biggest manufacturer, the biggest exporter, and it went from making textiles to making electric cars and electronics."
+  },
+  {
+   "speaker": "Leo",
+   "start": 46.09,
+   "text": "And there's that chart with the patents, right? Critical technology breakthroughs, China versus the US."
+  },
+  {
+   "speaker": "Maya",
+   "start": 53.03,
+   "text": "Yeah. For years the US line is way above. Then around the late twenty tens, China's line just shoots past it. That's from Lerner and coauthors."
+  },
+  {
+   "speaker": "Leo",
+   "start": 62.34,
+   "text": "Huh. Okay. So before we explain growth, I guess we need to measure it."
+  },
+  {
+   "speaker": "Maya",
+   "start": 67.0,
+   "text": "Exactly. So, GDP. The market value of all final goods and services produced in a country in a given period. For China, about seventeen point seven trillion dollars in twenty twenty one."
+  },
+  {
+   "speaker": "Leo",
+   "start": 80.4,
+   "text": "And why final goods?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 82.05,
+   "text": "So you don't double count. If you count the grapes and then the wine made from the grapes, you've counted the grapes twice."
+  },
+  {
+   "speaker": "Leo",
+   "start": 88.65,
+   "text": "Right. And speaking of wine."
+  },
+  {
+   "speaker": "Maya",
+   "start": 90.63,
+   "text": "Ha. Yes. The professor uses a cute example. Imagine the entire economy is one firm that hires workers to make wine. There are three ways to compute GDP, and they all give the same number."
+  },
+  {
+   "speaker": "Leo",
+   "start": 103.85,
+   "text": "Go."
+  },
+  {
+   "speaker": "Maya",
+   "start": 104.69,
+   "text": "One, the production approach. You count the bottles as they're made. Two, the expenditure approach. You count the bottles as they're sold to consumers. Three, the income approach. You add up what everyone earned. Wages for the workers, profits for the owners."
+  },
+  {
+   "speaker": "Leo",
+   "start": 120.63,
+   "text": "So it's the same wine, just counted at three different moments."
+  },
+  {
+   "speaker": "Maya",
+   "start": 124.63,
+   "text": "That's a great way to put it. Made, bought, or paid for."
+  },
+  {
+   "speaker": "Leo",
+   "start": 127.85,
+   "text": "And then GDP per capita is how we compare how well off people are."
+  },
+  {
+   "speaker": "Maya",
+   "start": 132.8,
+   "text": "Usually, yeah. It's easy to compare across countries. But the lecture is honest about what it misses. Inequality, underemployment, pollution, losing farmland, commuting, even the value of parenting. None of that shows up."
+  },
+  {
+   "speaker": "Leo",
+   "start": 147.25,
+   "text": "And there's also the price problem, right? A dollar doesn't buy the same stuff everywhere."
+  },
+  {
+   "speaker": "Maya",
+   "start": 152.6,
+   "text": "Right, which is where purchasing power parity comes in. P P P. Think of the Big Mac Index. If a burger costs way less in one country, your dollar income there goes further. The serious version uses price surveys from the International Comparison Program, comparing goods of similar quality."
+  },
+  {
+   "speaker": "Leo",
+   "start": 171.45,
+   "text": "And the professor flags that comparing prices between rich and poor countries is actually hard."
+  },
+  {
+   "speaker": "Maya",
+   "start": 177.96,
+   "text": "Yeah, that's the Deaton and Heston paper. Same label, different product, different quality. It gets messy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 184.36,
+   "text": "Okay. So now we can measure. What does the story look like?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 188.18,
+   "text": "There's this timeline with four phases. Nineteen forty nine to nineteen seventy eight, the planned economy. State ownership, central planning. Then from nineteen seventy eight, reform and opening. Market reforms, a private sector. Then from two thousand one, global integration. That's joining the W T O, and the export boom. And today, a global power, with innovation and new challenges."
+  },
+  {
+   "speaker": "Leo",
+   "start": 212.31,
+   "text": "And there's that long chart going back to the year one thousand or so."
+  },
+  {
+   "speaker": "Maya",
+   "start": 216.56,
+   "text": "Right, the Maddison data. For centuries China's GDP per person is pretty flat. Then you get the Great Divergence, where Britain and the US take off after eighteen hundred and China falls way behind. And then after nineteen seventy eight, the line goes almost vertical. The Growth Miracle."
+  },
+  {
+   "speaker": "Leo",
+   "start": 235.68,
+   "text": "And then the Shenzhen photos."
+  },
+  {
+   "speaker": "Maya",
+   "start": 237.56,
+   "text": "Oh, those are great. Houhai in the nineteen eighties, basically a fishing village and some fields. And then Houhai now, glass towers everywhere."
+  },
+  {
+   "speaker": "Leo",
+   "start": 246.3,
+   "text": "So, the miracle in numbers."
+  },
+  {
+   "speaker": "Maya",
+   "start": 248.26,
+   "text": "Three numbers. About ten percent average growth per year from nineteen seventy eight to twenty ten. More than eight hundred million people lifted out of extreme poverty. And number one manufacturing exporter in the world."
+  },
+  {
+   "speaker": "Leo",
+   "start": 261.41,
+   "text": "Okay. So the real question. Why?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 263.97,
+   "text": "This is the core of the lecture. Growth accounting. It's a framework from Hall and Jones, from nineteen ninety nine. The idea is to split output per worker into pieces."
+  },
+  {
+   "speaker": "Leo",
+   "start": 274.9,
+   "text": "Without the equation, please."
+  },
+  {
+   "speaker": "Maya",
+   "start": 277.0,
+   "text": "Without the equation. Output per worker depends on three things. Capital, meaning machines, buildings, infrastructure. Human capital, meaning how educated and healthy workers are. And productivity, which economists call T F P, total factor productivity. That's basically how well you combine everything else."
+  },
+  {
+   "speaker": "Leo",
+   "start": 297.07,
+   "text": "Like, two factories with the same machines and the same workers, but one is just better organized."
+  },
+  {
+   "speaker": "Maya",
+   "start": 303.29,
+   "text": "Exactly. That difference is T F P. Technology, efficiency, putting resources in the right place."
+  },
+  {
+   "speaker": "Leo",
+   "start": 310.05,
+   "text": "Okay, so which one was it for China?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 312.59,
+   "text": "The lecture shows four charts, all compared to the US. GDP per capita relative to the US climbs steadily. Human capital rises, but slowly. T F P is still pretty low and only creeps up. And the capital output ratio..."
+  },
+  {
+   "speaker": "Leo",
+   "start": 328.29,
+   "text": "Goes crazy."
+  },
+  {
+   "speaker": "Maya",
+   "start": 329.65,
+   "text": "Goes crazy, especially after two thousand eight. So a big part of the story is capital. China invested a lot."
+  },
+  {
+   "speaker": "Leo",
+   "start": 336.91,
+   "text": "And that's where Y equals C plus I plus G plus N X comes in."
+  },
+  {
+   "speaker": "Maya",
+   "start": 341.82,
+   "text": "Yeah. GDP equals consumption, plus investment, plus government spending, plus net exports. And there's a chart breaking China's GDP down this way, and the red investment line is just unusually high."
+  },
+  {
+   "speaker": "Leo",
+   "start": 355.85,
+   "text": "How high compared to others?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 357.88,
+   "text": "There's a comparison of investment as a share of GDP across economies, and China sits well above the rest. Fed by two things. A very high household saving rate, and massive infrastructure spending."
+  },
+  {
+   "speaker": "Leo",
+   "start": 371.01,
+   "text": "And investment turns into capital."
+  },
+  {
+   "speaker": "Maya",
+   "start": 373.25,
+   "text": "Right, next year's capital is this year's capital, minus what wears out, plus new investment. So if you invest a lot year after year, the capital stock balloons."
+  },
+  {
+   "speaker": "Leo",
+   "start": 383.45,
+   "text": "Okay, but there's a catch here, isn't there? The Alwyn Young thing."
+  },
+  {
+   "speaker": "Maya",
+   "start": 387.27,
+   "text": "Yes. Alwyn Young, nineteen ninety five. He looked at the Asian miracle economies and argued they grew mainly by piling up inputs. More capital, more workers. Not mainly from better technology."
+  },
+  {
+   "speaker": "Leo",
+   "start": 400.16,
+   "text": "And the problem with piling up inputs is..."
+  },
+  {
+   "speaker": "Maya",
+   "start": 402.93,
+   "text": "Diminishing returns. The first highway between two cities is incredibly useful. The fifth parallel highway, not so much. So growth driven by accumulation eventually slows down unless productivity picks up."
+  },
+  {
+   "speaker": "Leo",
+   "start": 416.22,
+   "text": "Which connects to that rising capital output ratio. More and more capital for each unit of output."
+  },
+  {
+   "speaker": "Maya",
+   "start": 422.97,
+   "text": "Exactly. That's the warning sign hiding in the chart."
+  },
+  {
+   "speaker": "Leo",
+   "start": 426.22,
+   "text": "Okay, second ingredient. Human capital."
+  },
+  {
+   "speaker": "Maya",
+   "start": 429.27,
+   "text": "Four things on the slide. Free primary and middle school. The big college expansion. The one child policy, which created what economists call a quantity quality tradeoff."
+  },
+  {
+   "speaker": "Leo",
+   "start": 440.45,
+   "text": "Fewer kids, but more invested in each one."
+  },
+  {
+   "speaker": "Maya",
+   "start": 443.18,
+   "text": "Right. And better health, which makes people more productive and makes education a better investment, because you'll live long enough to use it."
+  },
+  {
+   "speaker": "Leo",
+   "start": 450.9,
+   "text": "And the third ingredient is productivity. Where did that come from?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 455.12,
+   "text": "Two sources. The first is structural transformation. Labor moved out of low productivity farming into higher productivity manufacturing."
+  },
+  {
+   "speaker": "Leo",
+   "start": 464.38,
+   "text": "So even if nobody gets better at their job, just moving people raises the average."
+  },
+  {
+   "speaker": "Maya",
+   "start": 470.26,
+   "text": "That's the key insight. A farmer who becomes a factory worker produces a lot more per hour, not because they changed, but because the job did. And the second source is catch up. Adopting foreign technology, learning from global markets, and eventually innovating."
+  },
+  {
+   "speaker": "Leo",
+   "start": 486.65,
+   "text": "Which brings us to opening up."
+  },
+  {
+   "speaker": "Maya",
+   "start": 488.67,
+   "text": "Right. Before nineteen seventy eight, China was basically closed. Very little trade, foreign investment restricted, state owned enterprises everywhere, central planning. The trade openness chart is almost a flat line near zero."
+  },
+  {
+   "speaker": "Leo",
+   "start": 503.55,
+   "text": "And then it opened. But not all at once."
+  },
+  {
+   "speaker": "Maya",
+   "start": 506.32,
+   "text": "Not all at once. That's a big theme. First, experiment. Special Economic Zones in the nineteen eighties. Then expand what works. Then integrate globally, with the W T O in two thousand one. Gradual reform, learning and adapting along the way."
+  },
+  {
+   "speaker": "Leo",
+   "start": 522.92,
+   "text": "And after the W T O, the share of world exports just climbs."
+  },
+  {
+   "speaker": "Maya",
+   "start": 527.99,
+   "text": "Yep. Exports drove manufacturing, manufacturing drove growth. And there's the global value chain picture. Design in the United States, components from Japan and Korea, assembly in China, and then it ships to consumers everywhere."
+  },
+  {
+   "speaker": "Leo",
+   "start": 542.97,
+   "text": "Basically, your phone."
+  },
+  {
+   "speaker": "Maya",
+   "start": 544.61,
+   "text": "Basically your phone. And China's role was huge manufacturing capacity, dense supplier networks, and connection to world markets."
+  },
+  {
+   "speaker": "Leo",
+   "start": 552.98,
+   "text": "And foreign direct investment?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 555.15,
+   "text": "F D I brought capital, technology, management know how, access to foreign markets, and trained workers. Foreign investment leads to technology transfer, which leads to higher productivity. Put it all together and you get the export led growth model. F D I, plus globalization, plus manufacturing, equals rapid growth."
+  },
+  {
+   "speaker": "Leo",
+   "start": 576.07,
+   "text": "Okay, here's my question though. Japan did this. Korea did this. Is China just another East Asian miracle?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 584.01,
+   "text": "That's exactly the next slide. And the answer is, sort of, but not quite. Japan was mostly about technology catch up, led by big private firms, with the government coordinating industry. Korea was export led, built around the chaebol, the big family conglomerates, with strategic government support."
+  },
+  {
+   "speaker": "Leo",
+   "start": 603.23,
+   "text": "And China?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 604.3,
+   "text": "Exports plus investment plus reform. A mix of state and private firms. And the government role is a combination of market and state. That's the key difference. China combined market reforms with a strong state. Not pure planning, but not pure laissez faire either."
+  },
+  {
+   "speaker": "Leo",
+   "start": 621.5,
+   "text": "And then there are a few features that are really specific to China."
+  },
+  {
+   "speaker": "Maya",
+   "start": 625.37,
+   "text": "Five of them, I'd say. One, that state market combination we just said. Two, local governments competing with each other. They act almost like entrepreneurs, fighting for investment, factories, growth."
+  },
+  {
+   "speaker": "Leo",
+   "start": 638.19,
+   "text": "Like cities competing for a tech campus, but all the time, everywhere."
+  },
+  {
+   "speaker": "Maya",
+   "start": 642.87,
+   "text": "Ha, kind of, yeah. And that's actually the whole topic of the next lecture. Three, gradual reform through experiments. Central planning, then local experiments like the S E Zs and the township and village enterprises, and only then a market economy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 659.08,
+   "text": "Experiment first, scale later."
+  },
+  {
+   "speaker": "Maya",
+   "start": 661.29,
+   "text": "Exactly. Four, the dual economy. An old sector, state owned, planned, low productivity. And a new sector, private, export oriented, more productive. As the new sector grows, the average goes up."
+  },
+  {
+   "speaker": "Leo",
+   "start": 674.67,
+   "text": "And five?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 675.9,
+   "text": "Scale. A huge labor force, a huge domestic market, dense industrial clusters, and access to world markets. Together that gives you economies of scale, lower costs, and competitiveness. That's how you become the factory of the world."
+  },
+  {
+   "speaker": "Leo",
+   "start": 690.8,
+   "text": "So if you had to write the model as one sentence."
+  },
+  {
+   "speaker": "Maya",
+   "start": 694.01,
+   "text": "The professor does it for us. Growth equals capital accumulation, plus structural transformation, plus globalization, plus productivity catch up, plus state coordination."
+  },
+  {
+   "speaker": "Leo",
+   "start": 705.24,
+   "text": "And then the obvious question. Can it continue?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 708.44,
+   "text": "Right. Eight challenges. An aging population. Slower productivity growth. The real estate adjustment. Rising debt. And then the transition to innovation, competition with the US, the green transformation, and rebalancing the economy toward consumption."
+  },
+  {
+   "speaker": "Leo",
+   "start": 725.62,
+   "text": "So basically, a lot of the engines that worked before are slowing down."
+  },
+  {
+   "speaker": "Maya",
+   "start": 730.18,
+   "text": "Yeah. Cheap labor is shrinking, the investment model has diminishing returns, and the export model faces more pushback. The phrase on the slide is, from catching up to sustaining growth."
+  },
+  {
+   "speaker": "Leo",
+   "start": 742.33,
+   "text": "Okay, quick practical stuff, because this is the first lecture."
+  },
+  {
+   "speaker": "Maya",
+   "start": 746.6,
+   "text": "Right. Three questions for the course. What institutions are behind China's development. How the growth model worked. And whether China can sustain high growth. The roadmap goes institutions and local governments first, then growth accounting, then global integration, then future prospects like innovation, industrial policy, and trade conflict."
+  },
+  {
+   "speaker": "Leo",
+   "start": 768.02,
+   "text": "And grading."
+  },
+  {
+   "speaker": "Maya",
+   "start": 769.18,
+   "text": "Participation is ten percent. Those are group discussions in class, and one important rule. If your name is on the group's submission but you weren't there, the whole group gets capped at a D."
+  },
+  {
+   "speaker": "Leo",
+   "start": 780.76,
+   "text": "Ouch. Don't do that."
+  },
+  {
+   "speaker": "Maya",
+   "start": 782.1,
+   "text": "Don't do that. The group presentation is thirty percent. You present a China related study from a top journal, ideally about China's fast technological growth. And the big one, sixty percent, is a research proposal. Maximum six pages including references, judged on originality and feasibility. Some preliminary data analysis is a plus."
+  },
+  {
+   "speaker": "Leo",
+   "start": 804.56,
+   "text": "And there's a whole list of data sources for that."
+  },
+  {
+   "speaker": "Maya",
+   "start": 807.39,
+   "text": "Yeah, worth saving. National Bureau of Statistics, World Development Indicators, U N Comtrade for trade, plus firm level stuff like customs data and patent data. And for reading, Vox China is a good place to start."
+  },
+  {
+   "speaker": "Leo",
+   "start": 821.68,
+   "text": "And the closing thought?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 823.29,
+   "text": "I liked it, actually. China's experience has lessons for other developing countries. Vietnam is copying parts of it, and industrial policy is back in fashion, even in the US. But it's not a universal blueprint. Every country starts from different conditions and institutions, so you have to adapt, not copy."
+  },
+  {
+   "speaker": "Leo",
+   "start": 843.55,
+   "text": "Okay, three things to remember from today?"
+  },
+  {
+   "speaker": "Maya",
+   "start": 846.31,
+   "text": "One. China's growth miracle, about ten percent a year for three decades, can be split into capital, human capital, and productivity, and capital accumulation did a lot of the work, with diminishing returns as the warning sign. Two. Productivity came from moving workers out of farming and from catching up with foreign technology, helped by gradual opening, S E Zs, the W T O, and F D I. Three. What makes China different is the mix of markets and a strong state, with local governments competing and experimenting."
+  },
+  {
+   "speaker": "Leo",
+   "start": 879.52,
+   "text": "And that last point is next time. Why local officials worked so hard for growth."
+  },
+  {
+   "speaker": "Maya",
+   "start": 885.08,
+   "text": "Which is honestly where it gets juicy. See you then."
+  },
+  {
+   "speaker": "Leo",
+   "start": 888.08,
+   "text": "See you."
+  }
+ ]
+}

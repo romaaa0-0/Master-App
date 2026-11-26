@@ -2,7 +2,7 @@
 // App files: served from cache, refreshed in the background.
 // Content (lectures): always tries the network first so new lectures show up
 // right away, and falls back to the cached copy when offline.
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL = [
   "./", "index.html", "styles.css", "js/app.js", "js/markdown.js",
   "manifest.webmanifest", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png",

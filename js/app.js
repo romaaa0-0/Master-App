@@ -189,7 +189,8 @@
     // { "type": "files", "title": "Slides", "items": [{ "name": "Slides.pdf", "file": "lectures/01/slides.pdf" }] }
     async files(section, base) {
       const items = section.items || [];
-      if (!items.length) return '<div class="empty">No files.</div>';
+      // Optional "empty": message shown when there are no files yet.
+      if (!items.length) return `<div class="empty">${esc(section.empty || "No files.")}</div>`;
       return `<div class="list with-icons">` + items.map((f) => {
         const href = /^https?:/i.test(f.file) ? f.file : base + f.file;
         const ext = (f.file.split(".").pop() || "").toUpperCase().slice(0, 4);

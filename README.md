@@ -72,7 +72,7 @@ Defined in `SECTION_TYPES` in `js/app.js`:
 | type       | fields                         | shows                          |
 |------------|--------------------------------|--------------------------------|
 | `markdown` | `file` (a `.md` file)          | Formatted notes / summary      |
-| `files`    | `items: [{ name, file }]`      | List of files (PDF, etc.)      |
+| `files`    | `items: [{ name, file }]`, `empty` (optional message when there are none yet) | List of files (PDF, etc.) |
 | `podcast`  | `audio`, `transcript` (optional) | Audio player + live transcript |
 
 A typical lecture has three sections: **Summary** (`markdown`, `summary.md`),
